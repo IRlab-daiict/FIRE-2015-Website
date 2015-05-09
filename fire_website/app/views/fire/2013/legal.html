@@ -1,0 +1,530 @@
+<!--#include virtual="head.html" -->
+<div class="right">
+<h2>Information access in the legal domain</h2>
+<br/>
+
+  <p>
+  <b><a name="tasks">Tasks</a></b>
+  <hr/>
+  <ol>
+    <li><b>Adhoc retrieval from legal documents</b></li>
+    <ul>
+      <li>Documents: verdicts from the Supreme Court, various acts of
+      parliament. <!-- <a href="">Click here for a sample.</a></li> --> </li>
+      <li>Topics: descriptions of situations in which legal assistance is
+      required. The implicit query in all cases is &quot;What legal
+      documents are relevant to this situation?&quot;
+<br> This year we will be focusing on two domains <br>
+(a) Consumer Law <br> (b) Hindu Marriage & Divorce Law </li>
+
+<li>Retrieval granularity: Participants will have to retrieve the most relevant Documents.</li>
+
+<!--
+      <li>Retrieval granularity: Participants will have to retrieve the
+      most relevant and focussed passages.</li>
+      <li>Evaluation method / metrics: We plan to use the evaluation
+      methodology used for the adhoc track at
+      <a href="https://inex.mmci.uni-saarland.de/static/proceedings/INEX2007-preproceedings.pdf">INEX 2007</a>
+      and later.</li> --> 
+    </ul>
+    <li>
+    <b>Identification and Classification of Propositions in Court Judgments</b>
+<ul>
+<li> 
+set - ~800
+judgments from the Indian Supreme Court</li>
+<li>Participants are required to: 
+<ol type="a">
+<li>Parse each judgment into individual propositions</li>
+<li>Identify the nature and character of the proposition
+according to the typology provided <a href="#Scheme">here</a></li>
+<br />
+</ol>
+<ul>
+<img src="./images/LIA1.png" width=80% border=0 alt="An ideal two iteration process is shown below">
+</ul>
+<p style='margin-left:45px'><b> An ideal Legal Information Access System divided into two subtasks</b></p>
+<br />
+</ul>
+Ideally the process mentioned in the above figure should be followed, but to provide flexibility and allow a team to focus on either of the steps depending on their interest the organisers have divided the task into two distinct subtasks. Participants can submit runs for either of the individual subtasks or both. Both the subtasks will be evaluated seperately.  
+
+Subtask (a) consists of segmenting a document into sentences. Each sentence should be further segmented into propositions (if the sentence has multiple propositions). Participants for subtask (a) will be provided with ~800 documents consisting of Supreme court judgments from the year 1981 to 1990.
+
+Subtask (b) consists of classifying the propositions from a segmented document. The input in this case will be a document with individual propositions on a seperate line. The participants have to assign a unique category to each of the propositions.
+
+Participants of both the subtasks will be provided a training set of ~20 documents which have been parsed and annotated by legal experts.
+
+ Evaluation criterion that will be followed can be found <a href="#Evaluation">here</a>. 
+
+
+<!-- Sample documents demonstrating the format of input files and the output files for each stage and a readme file explaining the details of the task can be found <a href="Sample.zip">here</a> -->
+<br />
+<br />
+<h2> Data </h2>
+
+<ul>
+<table border="0">
+<tr>
+<td><li> Task 1 (Ad-hoc Task) </li></td>
+<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td><a href="/fire/data/docs/legal/Legal_Adhoc_Task.tar.gz.gpg">Corpus</a> </td>
+<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td><a href="/fire/data/docs/legal/Legal_Adhoc_Task_Queries.tar.gz">Queries</a> </td>
+<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td><a href="/fire/data/qrels/legal/Consumer.qrels">Qrel (qrels are only for consumer queries)</a> </td>
+</tr>
+<tr>
+<td><li>Task 2(a) (Segmentation Task) </li></td>
+<td></td>
+<td><a href="/fire/data/docs/legal/Legal_Segmentation_Task.tar.gz.gpg">Corpus</a></td>
+</tr>
+<tr>
+<td><li>Task 2(b) (Classification Task)</li></td>
+<td></td>
+<td><a href="/fire/data/docs/legal/Legal_Classification_Task.tar.gz.gpg">Training data</a></td>
+</tr>
+</table>
+</ul>
+
+For passcodes for the corpora please contact the task co-ordinators, or check the <a href="https://groups.google.com/forum/#!forum/legaltrack">LIA group</a>.
+<br />
+<br />
+
+<h2><p><a name ="Submission"></a>
+Submission Format (Only for task 1)
+</h2>
+<br />
+The output format is as follows:
+<ul>
+<li> Make a file and name it as &lt;team_name&gt;_&lt;Identifier&gt;_&lt;Model_Used&gt; </li>
+<li> The entries in the file are as 
+   &lt; Query_Number &gt; &lt; Q0 &gt; &lt; Document_Name &gt; &lt; sequence_number &gt; &lt; Similarity Score &gt; &lt; Identifier &gt; </li>
+</ul>
+
+You are supposed to submit 1000 relevant documents for each query. Most relevant document will have sequence number 0 and 1000th document will have sequence number 999.
+<br />
+<br />
+Here identifier means the "Query - Corpus" combination you are using. We have two query sets. Consumer queries(C) and Hindu marriage queries (H). The data sets are Consumer court judgments (C), Hindu marriage judgments (H) and the overall corpus (O) that consist of both of these (C) & (H). So possible identifiers are CC,CO, HH and HO, where 
+
+<ul>
+<li>CC means consumer queries(C) run over consumer court data set(C).</li>
+<li>CO means consumer queries(C) run over overall data set(O).</li>
+<li>HH means Hindu marriage queries(H) run over Hindu marriage data set(H).</li>
+<li>HO means Hindu marriage queries run over overall data set(O).</li>
+</ul>
+One file should contain only one identifier. You can submit as many runs as you wish. Submit different documents for consumer and Hindu marriage queries.
+<br />
+
+<br />
+PS: Here SC-HC judgments are referred as Hindu marriage judgments.
+<br />
+<br />
+
+You can submit your runs <a href="http://irlab.daiict.ac.in/#legal2013.php"><b>here</b></a>.
+<br />
+
+<br />
+
+
+<h2> Classification Scheme for Task 2(b) </h2>
+
+<br /> 
+
+<p style='margin-left:155px'><b><a name ="Scheme"></a> Scheme for Classification of Propositions</b></p>
+
+<!--------------- Table begins---------------------->
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=445
+ style='width:334.0pt;margin-left:4.65pt;border-collapse:collapse;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;margin-left:50px'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:28.5pt'>
+  <td width=445 colspan=3 style='width:334.0pt;border:solid windowtext 1.0pt;
+  border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.5pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>Scheme for Classification of Propositions<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>No.<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Category<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>Code<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>1<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Fact<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>&nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>1(a)<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Intrinsic to the case<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>FI<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>1(b)<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Extrinsic to the case<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>FE<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>2<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Issue<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>I<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>3<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Argument<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>A<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>4<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Ruling by lower court<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>LR<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>5<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>General standard of conduct<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>&nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>5(a)<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Statute<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>SS<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>5(b)<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Precedent<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>SP<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11;height:46.5pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:46.5pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>5(c )<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:46.5pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Other general standards, including customary, equitable and other
+  extra-legal considerations<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:46.5pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>SO<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12;mso-yfti-lastrow:yes;height:18.75pt'>
+  <td width=64 style='width:48.0pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>6<o:p></o:p></span></p>
+  </td>
+  <td width=275 style='width:206.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-family:"Arial","sans-serif";mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-IN;mso-bidi-language:
+  HI'>Ruling by the present court<o:p></o:p></span></p>
+  </td>
+  <td width=107 style='width:80.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:18.75pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span style='font-family:"Arial","sans-serif";
+  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
+  EN-IN;mso-bidi-language:HI'>R<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+<br />
+
+
+<!-----------------Table Ends---------------------------->
+
+
+<h2>
+<p><a name ="Evaluation"></a>
+Evaluation Criteria
+</h2>
+<br>
+<ul>
+<li>For Task-1 the evaluation of submitted runs will be done based on Mean Average Precision of the systems, as done in standard Ad-hoc Retrieval task
+</li>
+<li>For Task-2(b) The evaluation will be done by first calculating Ai as below<br>
+
+<img src="http://latex.codecogs.com/gif.latex?
+A_{i} = \sum_{j} \frac{\{P_{ij} \cap  Q_{ij}\}}{\{P_{ij} \cup  Q_{ij}\}} " border="0"/>
+
+<br>
+<img src="http://latex.codecogs.com/gif.latex? P_{ij} "  border="0"/> : is the proposition number j of sentence number i in the original text. <br>
+
+<img src="http://latex.codecogs.com/gif.latex? Q_{ij} "  border="0"/> : is the proposition number j of sentence number i in the participants text.
+
+<br>
+
+The operations <img src="http://latex.codecogs.com/gif.latex? \cup " border="0"/> and <img src="http://latex.codecogs.com/gif.latex? \cap " border="0"/>
+ denote intersection (finding the terms common to the two propositions) and union (finding the terms belonging to either of the two propositions. 
+
+This measure will be calculated for each sentence in all the documents and the overall accuracies will be calculated using the micro average of these values
+<br>
+<img src="http://latex.codecogs.com/gif.latex?
+A_{overall} = \frac{\sum_{k=1}^{N}\sum_{i=1}^{M}A_{ki}}{NM} " border="0"/> <br>
+ where M is the total number of sentence in the document number k, and N is the total number of documents in the test collection.
+ <br>
+
+
+<li>For Task-2(b) evaluation criteria will be f-measure. The categories will be assigned different weights depending on the proportion in which they are present.</li>
+</ul>
+
+</p>
+
+<h2> Important Dates </h2>
+<ul>
+<li>Test data release: 20th September</li>
+<li>Run submission:  20th October</li>
+<li>Rel judgment release: 15 November</li>
+<li>Working Noted Due: 20 November</li>
+
+</ul>
+
+<h2> Co-ordinating Committee </h2>
+<ul>
+<li> Mandar Mitra, ISI Kolkata </li>
+<li> Prasenjit Majumder, DA-IICT Gandhinagar </li>
+<li> Kripabandhu Ghosh, ISI Kolkata </li>
+<li> Parth Mehta, DA-IICT Gandhinagar </li>
+<li> Madhulika Agrawal, DA-IICT Gandhinagar </li>
+<li> Abhik Majumdar, NLUO Odisha </li>
+</ul>
+
+<h2> Contact Us</h2><br>
+For the latest updates please join the google mailing group <a href="https://groups.google.com/forum/#!forum/legaltrack">Information Access in Legal Domain</a>
+<br>
+After joing the Group the participants can simply mail their doubts to legaltrack@googlegroups.com <br>
+<br>
+In case of any problem with the mailing list you can contact:<br>
+<br> Parth Mehta, DA-IICT<br>
+parth.mehta126@gmail.com<br>
+<br> 
+Madhulika Agrawal, DA-IICT<br>
+madhu1agrawal@gmail.com<br>
+<br>
+Kripabandhu Ghosh, ISI Kolkata<br>
+kripa.ghosh@gmail.com
+
+<hr/>
+</div>
+<!--#include virtual="foot.html" -->
+

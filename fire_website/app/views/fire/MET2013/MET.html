@@ -1,0 +1,183 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0091)https://dl-web.dropbox.com/get/FIRE-Morphology%20track/MorphologicalAnalysis.htm?w=a56e7cb1 -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+
+  <title>MORPHOLOGICAL ANALYSIS</title>
+  <link rel="stylesheet" href="./MET_files/style.css" type="text/css" charset="utf-8">
+
+
+
+
+<title>MORPHOLOGICAL ANALYSIS</title>
+<meta http-equiv="Content-Language" content="English">
+
+
+<link rel="stylesheet" type="text/css" href="./MET_files/style.css" media="screen">
+
+</head>
+<body>
+
+<div id="wrap">
+
+<div id="header">
+<table cellspacing="15" cellpadding="0" border="0" width="100%" height="100%">
+<tbody>
+<!-- <tr><td width="175" height="20"></td><td></td></tr> -->
+ <tr><td width="10" height="20" rowspan="2"> 
+<a href="http://www.irsi.res.in/"><img src="./MET_files/irsi.png" ></a></td></tr>
+<tr><td>
+	<h1><p align="center"><font size="20">M</font>orpheme<font size="20">&nbsp;&nbsp;&nbsp; E</font>xtraction&nbsp;&nbsp;&nbsp;<font size="20">T</font>ask &nbsp; &nbsp; &nbsp; <font size="7">(MET)</font></p></h1>
+<br>
+<a href="/fire/"><h1><p align="center"><font size="5">FIRE 2013 </font><p align="center"></h1></a>
+<h1><p align="center"><font size="3"><b>4 - 6 December 2013, &nbsp;Delhi</b></p></font>
+</h1></td></tr>
+</tbody></table>
+
+</div>
+
+<div id="content">
+
+<div class="menu">
+
+<h2>Important Dates</h2>
+<br>
+
+<b>August 1, 2013</b> Call for participation <br>
+<b>September 7, 2013</b> Test Data release <br>
+<b>October 20, 2013</b> Last date for submission of systems <br>
+<b>November 10, 2013</b> Announcement of results <br>
+<b>November 20, 2013</b> Working Notes Due<br>
+<b>December 4-6, 2013</b> Conference<br>
+<br>
+<br>
+</div>
+
+<div class="right">
+<a name="introduction"> </a>
+<h2>Task Desciption</h2> 
+<br>
+<p>
+Morphology is the study of words and word forms. Morphological Analysis aims to understand the structure of a language and hence assumes utmost importance in various IR, Machine Learning and NLP tasks. The following two evaluation frame works are in place to test participating Morpheme Extraction Systems this year in Fire 2013: <br><br>
+<b><u>IR based Evaluation</u></b>
+<br><br>
+ The morpheme analyses proposed by the systems submitted will be used in Terrier indexing and retrieval experiments. The retrieved results will be evaluated against the available relevance judgments. The Mean Average Precision thus obtained will be treated as the final score for the system. A subjective query-wise analysis of the evaluation results will also be done. This evaluation is available in Bengali, Gujarati, Hindi, Marathi and Odia languages.
+</p>
+<br><br>
+<p>
+<b><u>Language dependent Evaluation </u></b>
+<br><br>
+A sample of the proposed morpheme analyses of the systems will be compared against a sample of the gold standard data (which contains manual morpheme analyses). This experiment will be repeated over several samples and the average is treated as the final score. This task is available at present in Bengali and Tamil languages. The gold standard data is available for 3000 words. Please refer<a href=http://research.ics.aalto.fi/events/morphochallenge2010/evaluation.shtml> http://research.ics.aalto.fi/events/morphochallenge2010/evaluation.shtml</a> for detailed description of a similar evaluation framework.
+</p>
+<br>
+<br>
+
+<a name="task"></a>
+<h2>Task</h2>
+<br>
+<p>
+Participants are expected to develop systems which take a huge list of words as input file and produce an output file which contains all the words along with their morpheme analyses. The test data will contain a list of all unique words from the FIRE corpora for each language and can be used as input file while testing the systems. The output file should adhere to the following set of guidelines:
+<ul>
+	<li>
+		Print the first word. Print Tab.
+	</li>
+	<li>
+	Print the first morpheme of the word. Print space.
+	</li>
+	<li>
+	Print the grammatical part of the first morpheme with a '+' sign before it. There are no standard set of rules for specifying the grammatical part. The actual terms will not be compared. Instead, pairs of terms having the same grammatical structure will be compared in the Language dependent evaluation part. So, you can decide your own set of rules for specifying the grammatical structure. Print space.
+	</li>
+	<li>
+	Print the second morpheme. Print space.
+	</li>
+	<li>
+	Print the grammatical part of the second morpheme with a '+' sign before it. Print space.
+	</li>
+	<li>
+	Continue similarly for all morphemes that make up the word. After the first word is done, print next word in the next line and continue similarly for all words in the input file.
+	</li>
+</ul>
+	</p>
+<b>IMPORATANT NOTE:</b> The grammar part is optional and not necessary if you intend to take part in the IR task only. Only morphemes will be used for the IR evaluation and all terms beginning with '+' will be removed for this. <br><br>
+<b>Example output format:</b><br>
+word&nbsp;&nbsp;[tab]&nbsp;&nbsp; morpheme1 &nbsp;[space]&nbsp; +grammatical structure&nbsp; [space]&nbsp; morpheme2 &nbsp;[space]&nbsp; +grammatical structure<br>
+titiliya &nbsp; &nbsp; titili &nbsp; +PL<br>
+(titili means butterfly in Hindi, its plural form, titiliya can be shown as +PL )
+<br>
+<br>
+
+<a name="submission"> </a>
+<h2>Submission Format</h2>
+<br>
+<p>
+Participants are required to submit a zip folder named as "InstituteName_FIRE-MET-[Language]-2013". The [Language] part is optional, in case it is a language independent tool. The folder should contain the system (an executable code or software) and a read me file containing the following:
+<ul>
+	<li>
+	Full name of the institute or research group
+	</li>
+	<li>
+	Full names and email ids of Team members
+	</li>
+	<li>
+	A step-by-step procedure required to run the system
+	</li>
+	<li>
+	Any other parameters required for running the system
+	</li>
+<br>
+The systems can be submitted<a href=http://irlab.daiict.ac.in/#MET2013.php> here</a>. Please note the maximum allowed size is 1Gb.
+
+</ul>
+</p>
+<br>
+
+
+<a name="taskcoordinators"> </a>
+<h2>Task Coordinators</h2>
+<br>
+<a href="http://www.daiict.ac.in/daiict/index.html"><img src="./MET_files/DAIICT.gif" ></a><br>
+Rashmi Sankepally, University of Maryland - College Park
+<br><u>rashmi.sankepally@gmail.com</u><br><br>
+
+Komal Agarwal, DA-IICT, Gandhinagar, Gujarat
+<br><u>komalagarwal07@gmail.com</u><br>
+<br>
+
+
+	
+    </td></tr>
+</tbody></table>
+
+<br><br><br>
+
+
+<br><br><br>
+</div>
+      
+<!--ends content of the page-->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<div class="left">
+
+  <h2>Links</h2>
+  <ul>
+	<li><a href="#introduction">Introduction</a></li>
+	<br>
+	<li><a href="#task">Task</a></li>
+	<br>
+	<li><a href="#submission">Submission Format</a></li>
+	<br>
+	<li><a href="#taskcoordinators">Coordinators</a></li>
+	<br>
+	<li><a href="/fire/data.html">Registration<!--/Discussion--></a></li>
+	<br>
+	<li><a href="/fire/data/docs/met/MET2013Data.zip.gpg">Test Data</a></li>
+	<br>
+	<li><a href=http://irlab.daiict.ac.in/#MET2013.php>Submission</a></li>
+	<br>
+ </ul>
+
+<!-- This page was last updated on 01/08/2013. -->
+</div>
+</div>
+</div></body></html>

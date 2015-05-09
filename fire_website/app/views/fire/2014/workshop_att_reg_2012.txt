@@ -1,0 +1,2150 @@
+Time:13:30:40Hours.
+Date:12/1/2010
+
+Results from form:
+
+Name:                  Ayan 
+Nationality:           sadfsa
+Affiliation:           sadsa
+Address:                   sdfsdf
+Mail:                  bandyopadhyay.ayan@gmail.com
+Phone:                 9883173937
+Fax:                   96869
+Accomodation:          yes
+Sex:                   Male
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                dsfvds
+DDNumber:              sdfvgdfs
+DDDate:                qdsfd
+DDSum:                 9787
+submit:                Submit
+
+
+******************************************************************
+Time:13:33:37Hours.
+Date:12/1/2010
+
+Results from form:
+
+Name:                  Ayan 
+Nationality:           asdasd
+Affiliation:           asdsa
+Address:                   asdas
+Mail:                  asfasf
+Phone:                 9883173937
+Fax:                   96869
+Accomodation:          yes
+Sex:                   Male
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                asd
+DDNumber:              asdfasd
+DDDate:                safsa
+DDSum:                 87987
+submit:                Submit
+
+
+******************************************************************
+Time:13:37:52Hours.
+Date:14/1/2010
+
+Results from form:
+
+Name:                  Hardik Joshi
+Nationality:           Indian
+Affiliation:           Gujarat University
+Address:               Department of Computer Sc.,
+Rollwala Computer Centre,
+Gujarat University,
+Navrangpura,
+Ahmedabad - 380009
+Mail:                  hardikjjoshi@gmail.com
+Phone:                 9228145889
+Fax:                   079-26300877
+Food:                  Veg
+Mode:                  Ch
+DDBank:                SBI
+DDNumber:              808808
+DDDate:                15-01-2010
+DDSum:                 1750
+submit:                Submit
+
+
+******************************************************************
+Time:15:28:10Hours.
+Date:21/1/2010
+
+Results from form:
+
+Name:                  Shree Kant Bohra
+Nationality:           Indian
+Affiliation:           Engineering College Bikaner
+Address:               1D 60 JNV Colony, Bikaner
+Mail:                  skbohra123@gmail.com
+Phone:                 09414494559
+Fax:                   09414494559
+Food:                  Veg
+Mode:                  ET
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 750
+submit:                Submit
+
+
+******************************************************************
+Time:18:47:28Hours.
+Date:25/1/2010
+
+Results from form:
+
+Name:                  Kalyani Patel
+Nationality:           Indian
+Affiliation:           K.S.School of business management,
+Address:               Gujarat University
+Ahmedabad-380 009    
+Mail:                  patel_kalyani_05@yahoo.co.in
+Phone:                 9427526568
+Fax:                   -
+Food:                  Veg
+Mode:                  ET
+DDBank:                State Bank of India
+DDNumber:              0020006903916
+DDDate:                25/1/2010
+DDSum:                 2500
+submit:                Submit
+
+
+******************************************************************
+Time:12:20:1Hours.
+Date:28/1/2010
+
+Results from form:
+
+Name:                  A Kumaran
+Nationality:           India
+Affiliation:           Microsoft Research India
+Address:               196/36, 2nd Main Road
+Sadashivnagar
+Bangalore 560080
+Mail:                  a.kumaran@microsoft.com
+Phone:                 +91.80.6658.6000
+Fax:                   +91.80.2361.4657
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                CitiBank Bangalore
+DDNumber:              Ref#: 090080900218922
+DDDate:                28 Jan 2009
+DDSum:                 5000
+submit:                Submit
+
+
+******************************************************************
+Time:12:30:19Hours.
+Date:29/1/2010
+
+Results from form:
+
+Name:                  Mrs.Sunita R. Patil
+Nationality:           Indian 
+Affiliation:           Asst Prof,Engineering Institute
+Address:                   K.J.Somaiya Institute of Engg & Information Technology,Sion,Mumbai-400022
+Mail:                  sunita.patil.india@gmail.com
+Phone:                 9579904582
+Fax:                   91-22 24028804
+Food:                  Non-Veg
+Mode:                  Ch
+DDBank:                Axis Bank,Ghatkopar Branch,Mumbai
+DDNumber:              017718
+DDDate:                28/01/2010
+DDSum:                 2500 INR
+submit:                Submit
+
+
+******************************************************************
+Time:13:35:32Hours.
+Date:1/2/2010
+
+Results from form:
+
+Name:                  Ashish Almeida
+Nationality:           Indian
+Affiliation:           IIT bombay
+Address:                   132, Tansa, IIT Bombay
+Mail:                  ashishfa@gmail.com
+Phone:                 9224428423
+Fax:                   9999999999999999
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 Not applicable
+submit:                Submit
+
+
+******************************************************************
+Time:13:42:40Hours.
+Date:1/2/2010
+
+Results from form:
+
+Name:                  Shalini Gupta
+Nationality:           Indian
+Affiliation:           IIT Bombay
+Address:               Hostel -11,
+IIT Bombay
+Mail:                  shalinisgupta@gmail.com
+Phone:                 9823581315
+Fax:                   Not Applicable
+Food:                  Veg
+Mode:                  ET
+DDBank:                Not Applicable
+DDNumber:              Not Applicable
+DDDate:                Not Applicable
+DDSum:                 Not Applicable
+submit:                Submit
+
+
+******************************************************************
+Time:13:43:49Hours.
+Date:1/2/2010
+
+Results from form:
+
+Name:                  Vishal Vachhani
+Nationality:           Indian
+Affiliation:           IIT Bombay
+Address:               B- 510
+Hostel 12,
+IIT Bombay
+Mail:                  vishal.ce@gmail.com
+Phone:                 9819161724
+Fax:                   Not Applicable
+Food:                  Veg
+Mode:                  ET
+DDBank:                Not Applicable
+DDNumber:              Not Applicable
+DDDate:                Not Applicable
+DDSum:                 Not Applicable
+submit:                Submit
+
+
+******************************************************************
+Time:17:3:42Hours.
+Date:2/2/2010
+
+Results from form:
+
+Name:                  Dr. Sujoy Das
+Nationality:           Indian
+Affiliation:           Maulana Azad National Institute of Technology Bhopal India
+Address:               Assistant Professor
+Department of Computer Applications
+Maulana Azad National Institute of Technology 
+Bhopal, 462001, India
+Mail:                  sujdas@gmail.com
+Phone:                 09826345195
+Fax:                   0755-2670562
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 Not applicable
+submit:                Submit
+
+
+******************************************************************
+Time:20:40:20Hours.
+Date:2/2/2010
+
+Results from form:
+
+Name:                  Dr. Sujoy Das
+Nationality:           Indian
+Affiliation:           Maulana Azad National Institute of Technology, Bhopal, India
+Address:               Assistant Professor
+Department of Computer Applications
+Maulana Azad National Institute of Technology, Bhopal, India
+Mail:                  sujdas@gmail.com
+Phone:                 09826345195
+Fax:                   0755-2670562
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                State Bank of India MANIT Branch Bhopal
+DDNumber:              Not applicable
+DDDate:                2/2/2010
+DDSum:                 2500.00
+submit:                Submit
+
+
+******************************************************************
+Time:13:27:30Hours.
+Date:3/2/2010
+
+Results from form:
+
+Name:                  Namita Mittal
+Nationality:           Indian
+Affiliation:           MNIT Jaipur
+Address:                  D 75 Staff Colony
+    MNIT Jaipur 302017 
+Mail:                  mittalnamita@rediffmail.com
+Phone:                 0141-2529145,2713324(o)
+Fax:                   0141-2529154
+Food:                  Veg
+Mode:                  DD
+DDBank:                Bank of Raj Ltd.
+DDNumber:              706429
+DDDate:                03/02/2010
+DDSum:                 2500 INR
+submit:                Submit
+
+
+******************************************************************
+Time:20:49:38Hours.
+Date:7/2/2010
+
+Results from form:
+
+Name:                  psoubrqrqo
+Nationality:           NuVbBWwnv
+Affiliation:           eMnkCmPokNGj
+Address:               R7qoWj  <a href="http://wmpiwiayzvsk.com/">wmpiwiayzvsk</a>, [url=http://mmevybbazahk.com/]mmevybbazahk[/url], [link=http://kydpynxklbfn.com/]kydpynxklbfn[/link], http://whzsafmwqiot.com/
+Mail:                  bhucas@ljghwu.com
+Phone:                 nMmcGHXBFVG
+Fax:                   EwrmPZETB
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                JICXVKbZg
+DDNumber:              RNKBaPWUxWi
+DDDate:                SyLZWtajdDJsuyY
+DDSum:                 fXrdOXybf
+submit:                Submit
+
+
+******************************************************************
+Time:20:49:40Hours.
+Date:7/2/2010
+
+Results from form:
+
+
+
+******************************************************************
+Time:16:7:45Hours.
+Date:8/2/2010
+
+Results from form:
+
+Name:                  Yogesh Kumar Meena
+Nationality:           Indian
+Affiliation:           MNIT Jaipur
+Address:               Khadu Ki Dhani, 
+Prem Nagar, 
+Malaviya Nagar, Jaipur-302017
+Mail:                  yogesh@mnit.ac.in
+Phone:                 0141-2713420
+Fax:                   0141-2529154
+Food:                  Veg
+Mode:                  DD
+DDBank:                Bank of Rajasthan Limited
+DDNumber:              706439
+DDDate:                08/02/2010
+DDSum:                 2500 INR
+submit:                Submit
+
+
+******************************************************************
+Time:17:30:8Hours.
+Date:10/2/2010
+
+Results from form:
+
+Name:                  Elayaraja
+Nationality:           Indian
+Affiliation:           Mobius Knowledge Services
+Address:                   Mobius Knowledge services, Chennai 600035
+Mail:                  elayarajap@mobiusservices.com
+Phone:                 914424333336
+Fax:                   Not applicable
+Food:                  Non-Veg
+Mode:                  Ch
+DDBank:                ICICI bank Ltd
+DDNumber:              457398
+DDDate:                10 Feb 2010
+DDSum:                 10000
+submit:                Submit
+
+
+******************************************************************
+Time:17:30:15Hours.
+Date:10/2/2010
+
+Results from form:
+
+Name:                  Ayan 
+Nationality:           indian
+Affiliation:           plp
+Address:                   cvpr
+Mail:                  bandyopadhyay.ayan@gmail.com
+Phone:                 9883173937
+Fax:                   96869
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                asd
+DDNumber:              889
+DDDate:                19019
+DDSum:                 76897
+submit:                Submit
+
+
+******************************************************************
+Time:17:32:18Hours.
+Date:10/2/2010
+
+Results from form:
+
+Name:                  Thirulogachander
+Nationality:           Indian
+Affiliation:           Mobius Knowledge Services 
+Address:                   Mobius Knowledge Services, 1st Floor, Karumuttu Centre, 634 Anna Salai, Chennai 600035
+Mail:                  thirulogachanderm@mobiusservices.com
+Phone:                 914424333336
+Fax:                   Not applicable
+Food:                  Non-Veg
+Mode:                  Ch
+DDBank:                ICICI Bank Ltd
+DDNumber:              457398
+DDDate:                10 Feb 10
+DDSum:                 10000
+submit:                Submit
+
+
+******************************************************************
+Time:17:18:35Hours.
+Date:15/2/2010
+
+Results from form:
+
+Name:                  Animesh Das
+Nationality:           Indian
+Affiliation:           SNLTR
+Address:               Module-130,SDF Building
+Saltlake,Sec-V
+Kolkata-700091
+Mail:                  animesdas@gmail.com
+Phone:                 9830445920
+Fax:                   Not applicable
+Food:                  Non-Veg
+Mode:                  Sponsor
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 Not applicable
+submit:                Submit
+
+
+******************************************************************
+Time:11:44:10Hours.
+Date:11/3/2010
+
+Results from form:
+
+Name:                  eqiyetl
+Nationality:           aaClBRabdtNHize
+Affiliation:           VHKAIeYa
+Address:               7yjL49  <a href="http://ssdupdmhrbrb.com/">ssdupdmhrbrb</a>, [url=http://qoakuqyatnzu.com/]qoakuqyatnzu[/url], [link=http://pfjhjkrptctn.com/]pfjhjkrptctn[/link], http://yqjkrmjygepr.com/
+Mail:                  iujzdg@tfoxkl.com
+Phone:                 ZOfCqROCyWELNLqxJJZ
+Fax:                   GvzRYvaeZxTqMiSah
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                rQDRnaRXiMphMJCHMuL
+DDNumber:              ilAYBrgwiZaMC
+DDDate:                oFlrlKZGAP
+DDSum:                 aftPGtXusXGdcQ
+submit:                Submit
+
+
+******************************************************************
+Time:11:44:11Hours.
+Date:11/3/2010
+
+Results from form:
+
+
+
+******************************************************************
+Time:13:23:28Hours.
+Date:15/3/2010
+
+Results from form:
+
+Name:                  cordarone online
+Nationality:           xrYYhKXHYrhFsmifxbc
+Affiliation:           NynApcVEPlitUTwzL
+Address:               QwYvLz Hello! and <a href="http://www.tigblog.org/group/claritinfda/#641">generic claritin</a> and http://www.tigblog.org/group/claritinfda/#641 generic claritin and  khmrdd and 
+Mail:                  iftpbenx@olddjujw.com
+Phone:                 vBnaGPcbCy
+Fax:                   YhbXNNnEDzjNxCyWVAN
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                RAOGqVltgEGPZJWaRHD
+DDNumber:              wLqhkZZkTdLoDUsCQrW
+DDDate:                ZdmdLgTGMEZhJaroF
+DDSum:                 fmfUTTNm
+submit:                Submit
+
+
+******************************************************************
+Time:13:23:29Hours.
+Date:15/3/2010
+
+Results from form:
+
+
+
+******************************************************************
+Time:23:56:4Hours.
+Date:26/3/2010
+
+Results from form:
+
+
+
+******************************************************************
+Time:2:49:5Hours.
+Date:28/8/2010
+
+Results from form:
+
+Name:                  awfkcmr
+Nationality:           nOtyuUxRlmfrA
+Affiliation:           YRhTWVYwJni
+Address:               s3uRDS  <a href="http://wcxvnyoxbcny.com/">wcxvnyoxbcny</a>, [url=http://jduwdtvqpvzw.com/]jduwdtvqpvzw[/url], [link=http://tgkyebalcuie.com/]tgkyebalcuie[/link], http://okyjiysbcxet.com/
+Mail:                  fwvepp@sgadpi.com
+Phone:                 HQKXVEIIBhRwUpzXa
+Fax:                   jARkuhtmYAdjMGekvy
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                bwqPJdgPMYhEnmqyo
+DDNumber:              ZUpwFRjFamFXBripgM
+DDDate:                HRhuXjRFkOO
+DDSum:                 vxgJIopWUalgZA
+submit:                Submit
+
+
+******************************************************************
+Time:2:49:23Hours.
+Date:28/8/2010
+
+Results from form:
+
+
+
+******************************************************************
+Time:7:16:20Hours.
+Date:1/9/2010
+
+Results from form:
+
+
+
+******************************************************************
+Time:17:55:4Hours.
+Date:19/9/2010
+
+Results from form:
+
+
+
+******************************************************************
+Time:1:16:56Hours.
+Date:20/9/2010
+
+Results from form:
+
+Name:                  WaldosM
+Nationality:           tpZnoWHUQbwKg
+Affiliation:           IGeyiDQDrqj
+Address:               qqjBQK hi all ?heey ? http://avtozastivxux.sweb.cz
+Mail:                  arigons3456@gmail.com
+Phone:                 90779872067
+Fax:                   67807512839
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                eeSZJhChPP
+DDNumber:              hDnBWuRRwEH
+DDDate:                qqjBQK hi all ?heey ? http://avtozastivxux.sweb.cz
+DDSum:                 czZpuWXCa
+submit:                Submit
+
+
+******************************************************************
+Time:1:16:57Hours.
+Date:20/9/2010
+
+Results from form:
+
+
+
+******************************************************************
+Time:14:7:45Hours.
+Date:24/3/2011
+
+Results from form:
+
+
+
+******************************************************************
+Time:4:0:39Hours.
+Date:28/3/2011
+
+Results from form:
+
+
+
+******************************************************************
+Time:22:27:31Hours.
+Date:13/5/2011
+
+Results from form:
+
+
+
+******************************************************************
+Time:19:10:17Hours.
+Date:14/11/2012
+
+Results from form:
+
+Name:                  Johannes Leveling
+Nationality:           German
+Affiliation:           Dublin City University
+Address:                   1 Homefarm Road, Drumcondra, 9 Dublin, Ireland
+Mail:                  johannes.leveling@computing.dcu.ie
+Phone:                 +353 1 700 6716
+Fax:                   +353 1 700 6702
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                Emslaendische Volksbank Meppen
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 100 USD
+submit:                Submit
+
+
+******************************************************************
+Time:23:16:24Hours.
+Date:15/11/2012
+
+Results from form:
+
+Name:                  Parth Gupta
+Nationality:           Indian
+Affiliation:           Technical University of Valencis, Spain
+Address:               DSIC, UPV, Valencia, Spain
+Mail:                  pargup8@gmail.com
+Phone:                 +34632192572
+Fax:                   0000000
+Food:                  Veg
+Mode:                  Ch
+DDBank:                ICICI
+DDNumber:              I'll hand over in person
+DDDate:                n/a
+DDSum:                 100
+submit:                Submit
+
+
+******************************************************************
+Time:10:11:15Hours.
+Date:27/11/2012
+
+Results from form:
+
+Name:                  Parth Mehta
+Nationality:           Indian
+Affiliation:           DA-IICT
+Address:               DA-IICT, Gandhinagar
+Mail:                  parth_mehta126@yahoo.com
+Phone:                 09879610664
+Fax:                   Not applicable
+Food:                  Veg
+Mode:                  Sponsor
+DDBank:                Not Applicable
+DDNumber:              Not Applicable
+DDDate:                Not Applicable
+DDSum:                 Not Applicable
+submit:                Submit
+
+
+******************************************************************
+Time:10:12:52Hours.
+Date:27/11/2012
+
+Results from form:
+
+Name:                  Nitin Ramrakhiyani
+Nationality:           Indian
+Affiliation:           DA-IICT
+Address:               DA-IICT, Gandhinagar
+Mail:                  nitin.ramrakhiyani@gmail.com
+Phone:                 09909422248
+Fax:                   Not applicable
+Food:                  Veg
+Mode:                  Sponsor
+DDBank:                Not Applicable
+DDNumber:              Not Applicable
+DDDate:                Not Applicable
+DDSum:                 Not Applicable
+submit:                Submit
+
+
+******************************************************************
+Time:14:9:20Hours.
+Date:27/11/2012
+
+Results from form:
+
+Name:                  Dhruvkumar Patel
+Nationality:           Indian
+Affiliation:           DA-IICT
+Address:               C-116, HOR-men, DA-IICT, near gh-0, Gandhinagar, India
+Mail:                  dhruvkumarr.patel51@gmail.com
+Phone:                 +918866222981
+Fax:                   Not applicable
+Food:                  Veg
+Mode:                  Sponsor
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 Not applicable
+submit:                Submit
+
+
+******************************************************************
+Time:19:25:27Hours.
+Date:27/11/2012
+
+Results from form:
+
+Name:                  SANTOSH KUMAR BEHERA
+Nationality:           INDIAN
+Affiliation:           AICTE
+Address:               Dept. of CSE
+Institute of Technical Education & Research(ITER)
+Jagmohan Nagar
+Bhubaneswar
+Odisha-751030   
+Mail:                  santosh.today@gmail.com
+Phone:                 7381605155
+Fax:                   Not Applicable
+Food:                  Veg
+Mode:                  ET
+DDBank:                Not Applicable
+DDNumber:              Not Applicable
+DDDate:                Not Applicable
+DDSum:                 Not Applicable
+submit:                Submit
+
+
+******************************************************************
+Time:13:28:14Hours.
+Date:29/11/2012
+
+Results from form:
+
+Name:                  Dr. Rakesh Ch. Balabantaray
+Nationality:           Indian
+Affiliation:           CLIA LAb, IIIT Bhubaneswar
+Address:               IIIT Bhubaneswar
+Gothapatana
+Malipada
+Bhubaneswar-751003    
+Mail:                  rakeshbray@gmail.com
+Phone:                 0674-3016014
+Fax:                   0674-3016009
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                Andhra Bank, IIIT Campus
+DDNumber:              ANDBN12334814023
+DDDate:                29/11/2012
+DDSum:                 3000
+submit:                Submit
+
+
+******************************************************************
+Time:22:47:31Hours.
+Date:29/11/2012
+
+Results from form:
+
+Name:                  Anwar Dilawar Shaikh
+Nationality:           Indian
+Affiliation:           Delhi Technological University
+Address:               E-503, Unity Park,
+Kondhwa, Pune.
+Mail:                  anwardshaikh@gmail.com
+Phone:                 9250771244
+Fax:                   Not Applicable
+Food:                  Veg
+Mode:                  ET
+DDBank:                State Bank of India
+DDNumber:              IT51890389
+DDDate:                29-Nov-2012
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:9:45:24Hours.
+Date:30/11/2012
+
+Results from form:
+
+Name:                  N mehala
+Nationality:           Indian
+Affiliation:           Birla Institute of Technology and Science Pialni
+Address:                   75/2 POOJA MARG
+BITS PILANI
+RAJASTHAN 333031
+Mail:                  mehala@bits-pilani.ac.in
+Phone:                 9928184356
+Fax:                   01596244183
+Food:                  Veg
+Mode:                  ET
+DDBank:                SBI MANDYA
+DDNumber:              IT51451256
+DDDate:                21 NOVEMBER 2012
+DDSum:                 3500
+submit:                Submit
+
+
+******************************************************************
+Time:13:59:28Hours.
+Date:1/12/2012
+
+Results from form:
+
+Name:                  santosh kumar behera
+Nationality:           indian
+Affiliation:           AICTE
+Address:               Dept. Of CSE
+Institute of technical education & Research
+jagmohan nagar
+khandagiri
+bhubaneswar
+odisha-751030    
+Mail:                  santosh.today@gmail.com
+Phone:                 7381605155
+Fax:                   not applicable
+Food:                  Veg
+Mode:                  DD
+DDBank:                punjab national bank
+DDNumber:              037922
+DDDate:                29-11-2012
+DDSum:                 3500
+submit:                Submit
+
+
+******************************************************************
+Time:9:54:56Hours.
+Date:2/12/2012
+
+Results from form:
+
+Name:                  Avinash Yadav
+Nationality:           INDIAN
+Affiliation:           ISM DHANBAD
+Address:                   Room no- B-431,
+B-Block, Jasper hostel,
+ ISM Dhanbad- 826004
+Mail:                  raoavinash@yahoo.co.in
+Phone:                 08235993077
+Fax:                   not applicable
+Food:                  Veg
+Mode:                  ET
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:12:41:32Hours.
+Date:3/12/2012
+
+Results from form:
+
+Name:                  Aarti Kumar
+Nationality:           Indian
+Affiliation:           Maulana Azad National Institute of Technology, Bhopal
+Address:               D-11/8
+Char Imli
+Bhopal-462016    
+Mail:                  aartikumar01@gmail.com
+Phone:                 9303132828
+Fax:                   07552670562
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                State Bank of India
+DDNumber:              601526
+DDDate:                03/12/2012
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:13:3:27Hours.
+Date:3/12/2012
+
+Results from form:
+
+Name:                  Robins Yadav
+Nationality:           Indian
+Affiliation:           Indian School of Mines Dhanbad 
+Address:                   Room no. B-303
+Jasper Hostel,
+ISM Dhanbad 826004
+Jharkhand
+Mail:                  robins.yadav@gmail.com
+Phone:                 8298170217
+Fax:                   Not Applicable
+Food:                  Veg
+Mode:                  ET
+DDBank:                Not Applicable
+DDNumber:              Not Applicable
+DDDate:                Not Applicable
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:13:21:29Hours.
+Date:3/12/2012
+
+Results from form:
+
+Name:                  Dr. Sujoy Das
+Nationality:           Indian
+Affiliation:           Maulana Azad National Institute of Technology, Bhopal
+Address:               Department of Mathematics & Computer Applications MANIT, Bhopal 
+Mail:                  sujdas@gmail.com
+Phone:                 09826345195
+Fax:                   07552670562
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                State Bank of India MANIT Branch Bhopal
+DDNumber:              169453
+DDDate:                3/12/2012
+DDSum:                 3500/-
+submit:                Submit
+
+
+******************************************************************
+Time:15:10:38Hours.
+Date:3/12/2012
+
+Results from form:
+
+Name:                  Pinaki Bhaskar
+Nationality:           Indian
+Affiliation:           Jadavpur University
+Address:               Dept. of Computer Science and Engineering, 
+Jadavpur University, 
+188, Raja S.C. Mallick Road,
+Jadavpur, Kolkata 700032
+Mail:                  pinaki.bhaskar@gmail.com
+Phone:                 09474790458
+Fax:                   03324146648
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                SBI, Jadavpur University (0093)
+DDNumber:              IT52177698
+DDDate:                03/12/2012
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:15:41:34Hours.
+Date:3/12/2012
+
+Results from form:
+
+Name:                  Amit prakash
+Nationality:           indian
+Affiliation:           B.I.T Mesra
+Address:                  Dept of CSE, B.I.T Mesra 
+Mail:                  aprakash@bitmesra.ac.in
+Phone:                 917209363319
+Fax:                   917209363319
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                ICICI
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:16:9:13Hours.
+Date:3/12/2012
+
+Results from form:
+
+Name:                  Partha Pakray
+Nationality:           Indian
+Affiliation:           Jadavpur University
+Address:                   C/O: Prof Sivaji Bandyopadhyay,
+Dept Of CSE, Jadavpur UNiversity,
+Kolkata-700032
+Mail:                  parthapakray@gmail.com
+Phone:                 +919433435018
+Fax:                   03324146648
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                SBI, Jadavpur University (0093)
+DDNumber:              IT52185048
+DDDate:                03/12/2012
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:16:15:58Hours.
+Date:3/12/2012
+
+Results from form:
+
+Name:                  Pintu Lohar
+Nationality:           Indian
+Affiliation:           Jadavpur University
+Address:               Department of Computer Science and Engineering
+Jadavpur University
+188 Raja S.C Mallick Road
+Kolkata-700032    
+Mail:                  pintu.lohar@gmail.com
+Phone:                 9733079525
+Fax:                   03324146648
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                SBI, Jadavpur University (0093)
+DDNumber:              IT52185820
+DDDate:                03/12/2012
+DDSum:                 3000
+submit:                Submit
+
+
+******************************************************************
+Time:22:20:13Hours.
+Date:3/12/2012
+
+Results from form:
+
+Name:                  Tanik Saikh
+Nationality:           Indian
+Affiliation:           Jadavpur University
+Address:               CSE Deptt,JU
+Jadavpur ,Kolkata-32
+Mail:                  tanik4u@gmail.com
+Phone:                 9831149864
+Fax:                   +913324146648
+Food:                  Veg
+Mode:                  ET
+DDBank:                State Bank of India
+DDNumber:              IT52217512
+DDDate:                03/12/2012
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:23:8:7Hours.
+Date:3/12/2012
+
+Results from form:
+
+Name:                  Rishiraj Saha Roy
+Nationality:           Indian
+Affiliation:           Computer Science and Engg., IIT Kharagpur
+Address:               C - 122, JCB Hall,
+IIT Kharagpur,
+Kharagpur - 721302.
+Mail:                  rishiraj.saharoy@gmail.com
+Phone:                 +919477588851
+Fax:                   Not applicable
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:10:12:26Hours.
+Date:4/12/2012
+
+Results from form:
+
+Name:                  Monalisa Swain
+Nationality:           Indian
+Affiliation:           CLIA -II LAB,IIIT BHUBANESWAR
+Address:               IIIT BHUBANESWAR
+MALIPADA
+GOTHAPATNA
+751003    
+Mail:                  monalisaswain1988@gmail.com
+Phone:                 8763821400
+Fax:                   +91-674-3016009
+Food:                  Veg
+Mode:                  ET
+DDBank:                Andhra Bank
+DDNumber:              ANDBN12334814237
+DDDate:                29/11/2012
+DDSum:                 3000
+submit:                Submit
+
+
+******************************************************************
+Time:10:14:31Hours.
+Date:4/12/2012
+
+Results from form:
+
+Name:                  Bibhuprasad Sahoo
+Nationality:           Indian
+Affiliation:           CLIA -II LAB,IIIT BHUBANESWAR
+Address:               IIIT BHUBANESWAR
+MALIPADA
+GOTHAPATNA
+751003
+Mail:                  s.bibhuprasad@gmail.com
+Phone:                 9040426577
+Fax:                   +91-674-3016009
+Food:                  Veg
+Mode:                  ET
+DDBank:                Andhra Bank
+DDNumber:              ANDBN12334813757
+DDDate:                29/11/2012
+DDSum:                 3000
+submit:                Submit
+
+
+******************************************************************
+Time:4:15:6Hours.
+Date:5/12/2012
+
+Results from form:
+
+Name:                  Yurii Palkovskii
+Nationality:           Ukrainian
+Affiliation:           Zhytomyr State University, SkyLine LLC
+Address:               Ukraine, Zhytomyr, Shelushkova 102, apt.5
+Mail:                  vb-expert@yandex.ru
+Phone:                 +380961408835
+Fax:                   +380637023204
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                ERSTE BANK
+DDNumber:              201240012889
+DDDate:                03.12.12
+DDSum:                 100 usd
+submit:                Submit
+
+
+******************************************************************
+Time:14:4:59Hours.
+Date:5/12/2012
+
+Results from form:
+
+Name:                  Rekha Vaidyanathan
+Nationality:           Indian
+Affiliation:           MANIT,Bhopal
+Address:               C-405/406, Lake Lucerne,
+Lake Homes, Chandivali Farm Road,
+Powai,Mumbai
+Mail:                  v_rekha@hotmail.com
+Phone:                 8452982654
+Fax:                   8452982654
+Food:                  Veg
+Mode:                  ET
+DDBank:                ICICI Bank
+DDNumber:              ICICH12340060778
+DDDate:                05/12/2012
+DDSum:                 3500
+submit:                Submit
+
+
+******************************************************************
+Time:16:0:51Hours.
+Date:5/12/2012
+
+Results from form:
+
+Name:                  Rajendra Prasath
+Nationality:           Indian
+Affiliation:           Indian Institute of Technology, Kharagpur
+Address:               Dept of CSE
+Indian Institute of Technology
+Kharagpur - 721 302, WB, India
+Mail:                  drrprasath@gmail.com
+Phone:                 +919734429269
+Fax:                   Not applicable
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                State Bank of India
+DDNumber:              3006888335
+DDDate:                06/12/2012
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:21:32:59Hours.
+Date:9/12/2012
+
+Results from form:
+
+Name:                  Abhishek Mallik
+Nationality:           Indian
+Affiliation:           IIT Bombay
+Address:               Room No-C714,
+Hostel 14
+IIT Bombay
+Mail:                  abhishek.mallik.cs@gmail.com
+Phone:                 +919433028976
+Fax:                   123456
+Food:                  Non-Veg
+Mode:                  Sponsor
+DDBank:                NA
+DDNumber:              NA
+DDDate:                NA
+DDSum:                 NA
+submit:                Submit
+
+
+******************************************************************
+Time:14:38:52Hours.
+Date:10/12/2012
+
+Results from form:
+
+Name:                  Harsha Kokel
+Nationality:           Indian
+Affiliation:           DAIICT
+Address:               IRLAB, DAIICT, Gandhinagar    
+Mail:                  harshakokel@gmail.com
+Phone:                 919016706512
+Fax:                   Not applicable
+Food:                  Veg
+Mode:                  Sponsor
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 Not applicable
+submit:                Submit
+
+
+******************************************************************
+Time:14:42:8Hours.
+Date:10/12/2012
+
+Results from form:
+
+Name:                  Jignesh Kakadiya
+Nationality:           Indian
+Affiliation:           DAIICT
+Address:               IRLAB, DAIICT, Gandhinagar    
+Mail:                  jigneshhk1992@gmail.com
+Phone:                 9510415101
+Fax:                   Not applicable
+Food:                  Veg
+Mode:                  Sponsor
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 Not applicable
+submit:                Submit
+
+
+******************************************************************
+Time:15:16:40Hours.
+Date:10/12/2012
+
+Results from form:
+
+Name:                  Rashmi Sankepally
+Nationality:           Indian
+Affiliation:           DA-IICT
+Address:               IR Lab, Room No-208, lab Building, DA-IICT, Gandhinagar, Gujarat-382007    
+Mail:                  rashmi.sankepally@gmail.com
+Phone:                 9924782437
+Fax:                   9924782437
+Food:                  Veg
+Mode:                  Sponsor
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 Not applicable
+submit:                Submit
+
+
+******************************************************************
+Time:15:48:32Hours.
+Date:10/12/2012
+
+Results from form:
+
+Name:                  Sangameshwar Patil
+Nationality:           Indian
+Affiliation:           TRDDC, Tata Consultancy Services, India
+Address:               54B, Hadapsar I.E.,
+Pune 411013
+
+Mail:                  sangameshwar.patil@tcs.com
+Phone:                 9422006837
+Fax:                   +912066086399
+Food:                  Veg
+Mode:                  Ch
+DDBank:                ICICI
+DDNumber:              622077
+DDDate:                10 Dec 2012
+DDSum:                 10000
+submit:                Submit
+
+
+******************************************************************
+Time:17:31:27Hours.
+Date:10/12/2012
+
+Results from form:
+
+Name:                  Apurbalal Senapati
+Nationality:           Indian
+Affiliation:           ISI Kolkata
+Address:               203, B.T.Road, CVPR Unit, ISI Kolkata 108    
+Mail:                  apurbalal.senapati@gmail.com
+Phone:                 919836947191
+Fax:                   919836947191
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                Axis Bank
+DDNumber:              17226559
+DDDate:                10/12/2012
+DDSum:                 1000.00(INR)
+submit:                Submit
+
+
+******************************************************************
+Time:13:16:0Hours.
+Date:11/12/2012
+
+Results from form:
+
+Name:                  Priyanka Das
+Nationality:           Indian
+Affiliation:           English and Foreign Language University, Hyderabad
+Address:               Department of L&P (Ph.D. scholar),
+English and Foreign Language University,
+Tarnaka,
+Hyderabad - 500605.
+Mail:                  priankacu@gmail.com
+Phone:                 09652015106
+Fax:                   09652015106
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                AXIS BANK
+DDNumber:              17251436
+DDDate:                11/12/2012
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:14:33:56Hours.
+Date:11/12/2012
+
+Results from form:
+
+Name:                  T PATTABHI RK RAO
+Nationality:           INDIAN
+Affiliation:           AU-KBC RESEARCH CENTRE
+Address:               MIT CAMPUS OF ANNA UNIVERSITY,
+CHROMEPET, CHENNAI
+600044
+Mail:                  pattabhi@au-kbc.org
+Phone:                 044-22232711
+Fax:                   044-22232711
+Food:                  Veg
+Mode:                  ET
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 Not applicable
+submit:                Submit
+
+
+******************************************************************
+Time:17:59:3Hours.
+Date:11/12/2012
+
+Results from form:
+
+Name:                  Deba Prasad Mandal
+Nationality:           Indian
+Affiliation:           Indian Statistical Institute, Kolkata
+Address:               Machine Intelligence Unit
+Indian Statistical Institute
+203, B. T. Road
+Kolkata - 700108
+India.    
+Mail:                  dpmandal@isical.ac.in
+Phone:                 (033) 2575 3111/ 09433442063
+Fax:                   (033) 2575 2358
+Food:                  Non-Veg
+Mode:                  Ch
+DDBank:                Allahabad Bank (ISI Extn. Counter)
+DDNumber:              158883
+DDDate:                30/11/2012
+DDSum:                 INR 3500
+submit:                Submit
+
+
+******************************************************************
+Time:10:35:55Hours.
+Date:13/12/2012
+
+Results from form:
+
+Name:                  Dinabandhu Bhandari
+Nationality:           Indian
+Affiliation:           Netaji Subhash Engineering College
+Address:                 Garia, Kolkata 700152
+Mail:                  dinabandhu.bhandari@gmail.com
+Phone:                 9830770921
+Fax:                   24361286
+Food:                  Non-Veg
+Mode:                  Ch
+DDBank:                On spot
+DDNumber:              not aaplicable
+DDDate:                not aaplicable
+DDSum:                 3500
+submit:                Submit
+
+
+******************************************************************
+Time:13:45:40Hours.
+Date:13/12/2012
+
+Results from form:
+
+Name:                  Pabitra Mitra
+Nationality:           Indian
+Affiliation:           IIT Kharagpur
+Address:                   Computer Science Engg
+IIT Kharagpur
+Kharagpur 721302
+Mail:                  pabitra@gmail.com
+Phone:                 9434724097
+Fax:                   03222282526
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                SBI Kharagpur
+DDNumber:              IT52884178
+DDDate:                13.12.2012
+DDSum:                 3500
+submit:                Submit
+
+
+******************************************************************
+Time:13:49:4Hours.
+Date:13/12/2012
+
+Results from form:
+
+Name:                  Arthita Ghosh
+Nationality:           Indian
+Affiliation:           IIT Kharagpur
+Address:                   Computer Sc Engg
+IIT Kharagpur
+Kharagpur 721302
+Mail:                  arthitaghosh08@gmail.com
+Phone:                 03222282356
+Fax:                   03222282356
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                SBI Kharagpur
+DDNumber:              IT52884027
+DDDate:                13.12.2012
+DDSum:                 1000
+submit:                Submit
+
+
+******************************************************************
+Time:15:25:30Hours.
+Date:13/12/2012
+
+Results from form:
+
+Name:                  Anirban Chakraborty
+Nationality:           Indian
+Affiliation:           Indian Statistical Institute, Kolkata
+Address:               Suravi Apartment, Flat - C3
+86, Aswini Nagar, Baguiati
+PO. Aswini Nagar
+Kolkata - 700159
+Mail:                  chakraborty.abhi89@gmail.com
+Phone:                 9007642301
+Fax:                   N.A.
+Food:                  Non-Veg
+Mode:                  Sponsor
+DDBank:                N.A.
+DDNumber:              N.A.
+DDDate:                N.A.
+DDSum:                 N.A.
+submit:                Submit
+
+
+******************************************************************
+Time:1:48:48Hours.
+Date:14/12/2012
+
+Results from form:
+
+Name:                  Suman Sourav
+Nationality:           Indian
+Affiliation:           ISI Kolkata
+Address:               Room 53,
+MTech Hostel
+ISI Kolkata  
+Mail:                  smnsourav@gmail.com
+Phone:                 +919681605728
+Fax:                   +919681605728
+Food:                  Non-Veg
+Mode:                  Sponsor
+DDBank:                SBI
+DDNumber:              5675757
+DDDate:                12.12.12
+DDSum:                 000
+submit:                Submit
+
+
+******************************************************************
+Time:10:17:18Hours.
+Date:14/12/2012
+
+Results from form:
+
+Name:                  Girishkumar Ponkiya
+Nationality:           Indian
+Affiliation:           ISI, Kolkata
+Address:               MTech hostel (room#81),
+ISI,
+205, B.T. Road,
+Kolkata - 700108
+Mail:                  girish.ponkiya2007@gmail.com
+Phone:                 9088873878
+Fax:                   9088873878
+Food:                  Veg
+Mode:                  Sponsor
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 Not applicable
+submit:                Submit
+
+
+******************************************************************
+Time:10:24:32Hours.
+Date:14/12/2012
+
+Results from form:
+
+Name:                  Sunny Kumar
+Nationality:           Indian
+Affiliation:           ISI, Kolkata
+Address:               MTech hostel (room#79),
+ISI,
+205, B.T. Road,
+Kolkata - 700108
+Mail:                  sunny.kmar.r@gmail.com
+Phone:                 9088870963
+Fax:                   9088870963
+Food:                  Veg
+Mode:                  Sponsor
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 Not applicable
+submit:                Submit
+
+
+******************************************************************
+Time:1:32:48Hours.
+Date:15/12/2012
+
+Results from form:
+
+Name:                  Gourab Saha
+Nationality:           Indian
+Affiliation:           ISI Kolkata
+Address:               Room no 54 
+Mtech Hostel
+ISI Kolkata
+205 BT Road     
+Mail:                  gourab1589@gmail.com
+Phone:                 9051110501
+Fax:                   9051110501
+Food:                  Non-Veg
+Mode:                  Sponsor
+DDBank:                NA
+DDNumber:              NA
+DDDate:                NA
+DDSum:                 NA
+submit:                Submit
+
+
+******************************************************************
+Time:12:12:34Hours.
+Date:15/12/2012
+
+Results from form:
+
+Name:                  Soumajit Pramanik
+Nationality:           Indian
+Affiliation:           ISI, Kolkata (M.Tech CS 2nd yr)
+Address:               3, Ram Garh Road, Dakshineswar, Kolkata 700076
+Mail:                  soumajit.pramanik@gmail.com
+Phone:                 9830675516
+Fax:                   9830675516
+Food:                  Non-Veg
+Mode:                  Ch
+DDBank:                Oriental Bank of Commerce
+DDNumber:              388549
+DDDate:                15.12.2012
+DDSum:                 2000
+submit:                Submit
+
+
+******************************************************************
+Time:23:39:21Hours.
+Date:7/1/2013
+
+Results from form:
+
+Name:                  Winona_Inclination_Efia1995_2_29
+Nationality:           Malaysian
+Affiliation:           UTC KICHWAMBA
+Address:               Bien hoa
+Mail:                  qi.n.g.hui.mi.ng.our@gmail.com
+
+Phone:                 123456
+Fax:                   123456
+ACM/SIGIR:             YES
+Accomodation:          AC
+Sex:                   1
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                All Eurodance
+submit:                Submit
+
+
+******************************************************************
+Time:9:47:7Hours.
+Date:3/3/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:16:30:36Hours.
+Date:5/3/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:22:16:43Hours.
+Date:9/3/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:11:37:32Hours.
+Date:1/4/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:12:3:56Hours.
+Date:18/4/2013
+
+Results from form:
+
+Name:                  evcbfcbt
+Nationality:           wnisYogzeDnncUKUW
+Affiliation:           TRSAPUWVo
+Address:               fPY0fp  <a href="http://rkceecnclvjr.com/">rkceecnclvjr</a>, [url=http://agsqknfnvjga.com/]agsqknfnvjga[/url], [link=http://zqwdrnptcuvc.com/]zqwdrnptcuvc[/link], http://fxjjyvajcnaw.com/
+Mail:                  pmcnht@hmmnlu.com
+Phone:                 aopxAfUWNyHixJT
+Fax:                   NJIMhxfDXS
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                LGkucNRLWKFEQeUODI
+DDNumber:              JSTePQGhKzil
+DDDate:                nBHEmmrjcTHK
+DDSum:                 jcqNFfuZAgz
+submit:                Submit
+
+
+******************************************************************
+Time:12:4:1Hours.
+Date:18/4/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:12:21:41Hours.
+Date:18/4/2013
+
+Results from form:
+
+Name:                  xuakztlmt
+Nationality:           tKBlrhEikUnh
+Affiliation:           GWxucVVMxO
+Address:               sg7VvC  <a href="http://ksyxhykrxzcv.com/">ksyxhykrxzcv</a>, [url=http://ytpkmayiziup.com/]ytpkmayiziup[/url], [link=http://yjkhuthggmvh.com/]yjkhuthggmvh[/link], http://tawhctmggsvu.com/
+Mail:                  glqmvt@qbdqhv.com
+Phone:                 hZlUsBkQAmYx
+Fax:                   ClCkAEjiPc
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                zkxIaWgemZrWTwltjsH
+DDNumber:              XdjsJpHDYxGktWqinz
+DDDate:                XBYyMPYVwtJmPbHo
+DDSum:                 GxQXQtkpjrAJJqb
+submit:                Submit
+
+
+******************************************************************
+Time:12:21:42Hours.
+Date:18/4/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:5:14:18Hours.
+Date:29/4/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:0:21:56Hours.
+Date:14/5/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:8:49:28Hours.
+Date:30/5/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:8:27:11Hours.
+Date:26/6/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:2:58:7Hours.
+Date:29/7/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:0:10:50Hours.
+Date:18/9/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:19:13:39Hours.
+Date:22/10/2013
+
+Results from form:
+
+Name:                  Ayan Bandyopadhyay
+Nationality:           Indian
+Affiliation:           PLP
+Address:               CVPR    
+Mail:                  bandyopadhyay.ayan@gmail.com
+Phone:                 9432829250
+Fax:                   9432829250
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                SBI
+DDNumber:              12345
+DDDate:                22/10/2013
+DDSum:                 4000
+submit:                Submit
+
+
+******************************************************************
+Time:15:5:59Hours.
+Date:23/10/2013
+
+Results from form:
+
+Name:                  Ayan Bandyopadhyay
+Nationality:           Indian
+Affiliation:           PLP
+Address:               cvpr
+Mail:                  bandyopadhyay.ayan@gmail.com
+Phone:                 9432829250
+Fax:                   9432829250
+Food:                  Non-Veg
+Mode:                  DD
+DDBank:                SBI
+DDNumber:              12345
+DDDate:                22/10/2013
+DDSum:                 4000
+submit:                Submit
+
+
+******************************************************************
+Time:15:16:27Hours.
+Date:23/10/2013
+
+Results from form:
+
+Name:                  Parth Mehta
+Nationality:           Indian
+Affiliation:           DAIICT
+Address:               E-214, H.O.R. Men, DAIICT, Gandhinagar
+Mail:                  parth_mehta126@yahoo.com
+Phone:                 9879610664
+Fax:                   9879610664
+Food:                  Veg
+Mode:                  Sponsor
+DDBank:                NA
+DDNumber:              NA
+DDDate:                NA
+DDSum:                 NA
+submit:                Submit
+
+
+******************************************************************
+Time:18:10:5Hours.
+Date:31/10/2013
+
+Results from form:
+
+
+
+******************************************************************
+Time:11:2:23Hours.
+Date:4/11/2013
+
+Results from form:
+
+Name:                  Dinesh Kumar Prabhakar
+Nationality:           Indian
+Affiliation:           ISM Dhanbad
+Address:               JRF
+Dept. of CSE
+ISM Dhanbad
+Dhanbad, Jharkhand
+India-826004   
+Mail:                  dinesh.nitr@gmail.com
+Phone:                 +919525052962
+Fax:                   +91-326-2296563
+Food:                  Veg
+Mode:                  ET
+DDBank:                Not applicable
+DDNumber:              Not applicable
+DDDate:                Not applicable
+DDSum:                 2000
+submit:                Submit
+
+
+******************************************************************
+Time:17:11:11Hours.
+Date:4/11/2013
+
+Results from form:
+
+Name:                  AMBEDKAR KANAPALA
+Nationality:           INDIAN
+Affiliation:           ISM DHANBAD
+Address:                   JRF,
+DEPT OF CSE,
+ISM DHANBAD,
+JHARKHAND-826004
+Mail:                  ambedkar.kanapala@live.com
+Phone:                 +917549019054
+Fax:                   +91-326-2296563
+Food:                  Veg
+Mode:                  ET
+DDBank:                na
+DDNumber:              na
+DDDate:                na
+DDSum:                 2000
+submit:                Submit
+
+
+******************************************************************
+
+******************************************************************
+Time:18:27:6Hours.
+Date:4/11/2013
+
+Results from form:
+
+Name:                  Aarti Kumar
+Nationality:           Indian
+Affiliation:           MANIT, Bhopal
+Address:               D-11/8
+Char Imli
+Bhopal-462016
+Mail:                  aartikumar01@gmail.com
+Phone:                 9303132828
+Fax:                   07552766315
+Food:                  Non-Veg
+Mode:                  Ch
+DDBank:                State Bank of India
+DDNumber:              992146
+DDDate:                01-11-2013
+DDSum:                 2000
+submit:                Submit
+
+
+******************************************************************
+Time:14:4:29Hours.
+Date:5/11/2013
+
+Results from form:
+
+Name:                  Hardik Joshi
+Nationality:           India
+Affiliation:           Gujarat University
+Address:               Department of Computer Science,
+Rollwala Computer Centre,
+Gujarat University,
+Navrangpura,
+Ahmedabad - 380009
+Gujarat, India    
+Mail:                  hardikjjoshi@gmail.com
+Phone:                 9662111721
+Fax:                   079-26300164
+Food:                  Veg
+Mode:                  ET
+DDBank:                SBI - Guj. University Branch
+DDNumber:              IT76323798
+DDDate:                05/11/2013
+DDSum:                 5000
+submit:                Submit
+
+
+******************************************************************
+Time:13:43:34Hours.
+Date:7/11/2013
+
+Results from form:
+
+Name:                  Partha Pakray
+Nationality:           Indian
+Affiliation:           Norwegian University of Science and Technology, NTNU
+Address:               Computer and Information system
+Sem Sælandsvei 7-9
+NO-7491 Trondheim   
+Mail:                  parthapakray@gmail.com
+Phone:                 + 4773591802
+Fax:                   + 4773591802
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                DNB
+DDNumber:              NA
+DDDate:                NA
+DDSum:                 NA
+submit:                Submit
+
+
+******************************************************************
+Time:11:32:54Hours.
+Date:8/11/2013
+
+Results from form:
+
+Name:                  Rishiraj Saha Roy
+Nationality:           Indian
+Affiliation:           IIT Kharagpur
+Address:               C - 122, JCB Hall,
+IIT Kharagpur,
+Kharagpur - 721302.
+    
+Mail:                  rishiraj.saharoy@gmail.com
+Phone:                 919477588851
+Fax:                   N. A.
+Food:                  Non-Veg
+Mode:                  ET
+DDBank:                State Bank of India
+DDNumber:              Transaction number IT76480536
+DDDate:                07.11.2013
+DDSum:                 2000
+submit:                Submit
+
+
+******************************************************************
+Time:18:38:21Hours.
+Date:8/11/2013
+
+Results from form:
+
+Name:                  URMILA MAHOR
+Nationality:           INDIAN
+Affiliation:           MANIT
+Address:                  D 54 SIDDHARTH LAKE CITY
+ANAND NAGAR RAISEN ROAD
+BHOPAL-462021
+(M.P.)
+Mail:                  urmila.mahor@gmail.com
+Phone:                 9926821102
+Fax:                   07556466613
+Food:                  Veg
+Mode:                  Ch
+DDBank:                STATE BANK OF INDIA
+DDNumber:              626793
+DDDate:                08/11//2013
+DDSum:                 2000
+submit:                Submit
+
+
+******************************************************************
+Time:21:31:8Hours.
+Date:11/11/2013
+
+Results from form:
+
+Name:                  Parth Gupta
+Nationality:           Indian
+Affiliation:           Technical University of Valencia
+Address:                   Valencia, Spain
+Mail:                  pargup8@gmail.com
+Phone:                 7845533130
+Fax:                   NA
+Food:                  Veg
+Mode:                  ET
+DDBank:                NA
+DDNumber:              NA
+DDDate:                NA
+DDSum:                 200 USD
+submit:                Submit
+
+
+******************************************************************
+Time:12:37:9Hours.
+Date:14/11/2013
+
+Results from form:
+
+Name:                  Dinesh Kumar Prabhakar
+Nationality:           Indian
+Affiliation:           ISM Dhanbad
+Address:               JRF 
+Dept. of CSE
+ISM Dhanbad
+Jharkhand- 826004
+Mail:                  dinesh.nitr@gmail.com
+Phone:                 +919525052962
+Fax:                   +91-326-2296563
+Food:                  Veg
+Mode:                  ET
+DDBank:                SBI
+DDNumber:              IT77092598
+DDDate:                14/11/2013
+DDSum:                 2000
+submit:                Submit
+
+
+******************************************************************
+Time:12:42:30Hours.
+Date:14/11/2013
+
+Results from form:
+
+Name:                  Ambedkar Kanapala
+Nationality:           Indian
+Affiliation:           ISM Dhanbad
+Address:               JRF 
+Dept. of CSE
+ISM Dhanbad
+Jharkhand- 826004
+Mail:                  ambedkar.kanapala@live.com
+Phone:                 +917549019054
+Fax:                   +91-326-2296563
+Food:                  Veg
+Mode:                  ET
+DDBank:                SBI
+DDNumber:              IT77093704
+DDDate:                14/11/2013
+DDSum:                 2000
+submit:                Submit
+
+
+******************************************************************
+Time:12:48:13Hours.
+Date:14/11/2013
+
+Results from form:
+
+Name:                  Ritesh Kumar
+Nationality:           Indian
+Affiliation:           ISM Dhanbad
+Address:               JRF 
+Dept. of CSE
+ISM Dhanbad
+Jharkhand- 826004
+Mail:                  ritesh4rmrvs@gmail.com
+Phone:                 +918271078122
+Fax:                   +91-326-2296563
+Food:                  Veg
+Mode:                  ET
+DDBank:                SBI
+DDNumber:              IT77094355
+DDDate:                14/11/2013
+DDSum:                 2000
+submit:                Submit
+
+
+******************************************************************

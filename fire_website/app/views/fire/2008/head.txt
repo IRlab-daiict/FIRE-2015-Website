@@ -1,0 +1,100 @@
+</head>
+<body>
+
+<div id="wrapper">
+
+   <div id="left">
+
+   <div id="logo">
+     <a href="http://www.irsi.res.in/"><img src="./images/logo/irsi-logo.png" border=0></a> 
+   </div>
+
+  <div id="nav">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+	  <li><a href="http://groups.google.com/group/fire-list">fire-list</a></li>
+	  <li><a href="resources.html">Data</a></li>
+          <li><a href="dates.html">Important Dates</a></li>
+	  <li><a href="speakers.html">Invited Speakers</a></li>
+	  <li><a href="schedule.html">Workshop Slides</a></li>	
+	  <li><a href="working_notes.html">Working Notes</a></li>
+          <li><a href="photo.html">Photographs</a></li>
+	  <li><a href="kolkata.html">About Kolkata</a></li> 
+          <li><a href="committee.html">Committees</a></li>
+          <li><a href="contact.html">Contact us</a></li>
+	  <!--li><a href="notebook-papers.txt">Paper Submission</a></li-->
+	  <!--li><a href="publication.html">Publications & Talks</a></li-->
+          <!--li><a href="talk.html">Talks</a></li-->
+          <!--li><a href="">Proceedings</a></li-->
+	  <!--li><a href="registration.html">Workshop registration</a></li-->
+          <!--li><a href="venue.html">Venue</a></li-->
+        </ul>
+  </div>
+
+<div id="news">
+	<br/></br>
+        <center><h1>Latest News</h1></center><br/>
+	<a href="./talip.html">ACM TALIP special issue on ILIR</a>
+	<!--p><a href="./SEMINAR_NOTICE_by_Prabhakar_Raghavan.html">Seminar by Prabhakar Raghavan on 16/03/09</a></p>
+	<p><a href="./schedule.html">FIRE 2008 Workshop slides are
+        available.</a></p--> 
+	<i>
+        The <a href="http://portal.acm.org/toc.cfm?id=1364742&type=proceeding&coll=portal&dl=ACM">IWRIDL proceedings</a> is dedicated to the memory of Late Prof. Karen Spärck Jones.
+	</i>
+	<!--p><font size=1><b><a href="./fire.cls" style="text-decoration:none">Paper Submission is open.</a> <img src="./images/new.gif"><br></b></font></p-->
+	<!--p><font size=1><b><a href="./upload.php" style="text-decoration:none">Run Submission is open.</a> <img src="./images/new.gif"><br></b></font></p--> 
+	<!--p><font size=1><b><a href="./online.html" style="text-decoration:none">Registration is open.</a> <img src="./images/new.gif"><br></b></font></p-->
+
+ <div class="hr-dots"> </div>
+
+ <center><h1>Sponsors</h1></center><br/><br/>
+
+  <center>
+  <img src="./images/logo/ashok.jpg" border=0/><br/>
+  <a href="http://mit.gov.in/">
+    <i>D.I.T. Government of India</i><br/>
+  </a>
+  <!-- please don't link to pages that affect your sanity -->
+    <i>D.I.T. Government of West Bengal</i>
+  </center>
+  <br/>
+
+  <a href="http://www.google.com">
+    <img src="./images/logo/google-logo-200x150.jpg" width=85% border=0/>
+  </a>
+  <br/>
+
+  <a href="http://www.yahoo.com">
+    <img src="images/logo/yahoo_logo.jpg" width=100% border=0/>
+  </a>
+  <br/><br/><br/>
+
+  <a href="http://research.microsoft.com/en-us/labs/india">
+    <img src="./images/logo/msri3.png" width=75% border=0/><br/>
+  </a>
+  <br/><br/><br/>
+
+  <a href="http://www.hp.com">
+    <img src="images/logo/hp_logo.jpg" width=50% border=0/>
+  </a>
+  <br/><br/><br/>
+
+  <a href="http://www.research.ibm.com/">
+    <img src="images/logo/IBM_Logo.gif" width=50% border=0>
+  </a>
+
+  </div>
+</div> 
+    <div id="right">
+      <h1>FIRE</h1>
+      <center>
+      <h3>
+        <b>F</b>orum for <b>I</b>nformation <b>R</b>etrieval <b>E</b>valuation<br/>
+	12 - 14 December 2008, Hotel Oberoi Grand, Kolkata
+      </h3>
+      </center>
+      <!--h2><p align="center"><font color="red">For security reasons,
+      ALL attendees should carry a government-issued photo ID (passport /
+      driving licence / PAN card / voter id card). Employer-issued ID cards
+      will not be acceptable to the security personnel at the entrance to
+      the conference venue.</p></font></h2-->

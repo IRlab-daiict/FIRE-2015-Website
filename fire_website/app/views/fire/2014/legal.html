@@ -1,0 +1,132 @@
+<!--#include virtual="head.html" -->
+<div class="right">
+<h2>Information access in the legal domain</h2>
+<br/>
+
+  <p>
+  <b><a name="tasks">Task Definition</a></b>
+  <hr/>
+	<b>Summarization of legal documents</b>
+	<br />
+	<br />
+	Legal documents by themselves always use a typical vocabulary and many long and complex sentences which make them difficult to understand by layman. 
+	A system that would summarise these documents and make them easily readable to a common man, explaining the essence without dealing with the 
+	nitigrities, would be of immense importance. Such a system can be very useful in providing priliminary legal assistance to a common person, who 
+	otherwise cannot understand the legal terminology that is usually used in such documents. This system can be of equal assistance to a lawyer or 
+	a paralegal and can save a lot of his/her time by providing precisely the information that maybe of importance to them. This year we will focus 
+	only on single source summarization and generate a separate summary for each individual case, irrespective of whether or not it is similar to another case. 
+	Both abstractive and extractive summarization would be considered valid.  
+
+  <br />
+<br />
+<h2> Data </h2>
+<br />
+
+The corpus consists of ~1500 judgements from the Supreme court of India. Each judgement has a corresponding headnote 
+that is written by professionals with legal expertise. These headnote summarise the entire case starting from the original dispute to 
+the final judgement, including the applicable penal codes, ruling by lower courts, etc. These judgements are from the period 1950-1989 
+and hence it covers a considerable amount of variation in language and vocabulary. The training set will consist of 1000 judgements spread over the entire period of 4 decades. The test set will contain remaining 500 documents again from the same time period.
+<br />
+<br />
+Training set documents are in TREC format with  &lt;DOC> and &lt;DOCID> tags used as usual. Other tags include
+<ul>
+<li> <pre>&lt;HEADNOTE>  Denotes the Headnote (Summary of the Judgement)</pre>
+<li> <pre>&lt;JUDGEMENT> Denotes the actual Judgement</pre>
+<li> <pre>&lt;INFO>	    Denotes the extra data that can be used for summarisation if required. 
+	    This consists of the ACTS and the CITATIONS to other cases, used in the 
+	    Judgement. It should be noted that this part can be used if required 
+	    to support your technique, but is not supposed to be summarised. Only 
+	    the text inside the JUDGEMENT tag is to be summarised.</pre>
+</ul>
+
+The naming convention followed for training and test documents is &lt;SupremeCourt>_&lt;year>_&lt;Case id>.txt, where case id is the serial number of the case in that year. In a general scenario the case id can be used to find out related judgements which were used as precedents or which were referred to in this case. But since all the documents are not made avialable in this years corpus, case id tag will not be of much use except providing a unique number to cases of the same year. We plan to release the entire corpus next year when these case ids will be useful and hence we retain them in this years corpus as well.
+
+<br />
+<br />
+The Training corpus has been released and can be downloaded <a href="http://irlab.daiict.ac.in/Legal2014/Train.tar.gz.gpg">here</a>.
+<br />
+<br />
+The Test corpus has been released and can be downloaded <a href="http://irlab.daiict.ac.in/Legal2014/Test.tar.gz.gpg">here</a>.
+<br />
+<br />
+For passcodes for the corpora please contact the task co-ordinators, or check the <a href="https://groups.google.com/forum/#!forum/legaltrack">LIA group</a>.
+<br />
+<br />
+
+<h2><p><a name ="Submission"></a>
+Submission Format
+</h2>
+<br />
+
+The test documents will have the naming convention &lt;supremecourt>_&lt;year>_&lt;id>;.txt, and have the &lt;DOC>, &lt;DOCID>, &lt;INFO> and &lt;JUDGEMENT> tags. 
+<br /> 
+<br />
+For each docuement in the test set the participants need to create a document named &lt;supremecourt>_&lt;year>_&lt;id&gt;_&lt;summary>.txt. The summary document should be on the TREC format, with &lt;DOC>, &lt;DOCID> and &lt;HEADNOTE> tags.
+<br />
+<br />
+ A team can submit multiple runs. Each run must be submitted in the form of a folder named as &lt;Teamname&gt;_&lt;runid&gt;_&lt;description&gt;, each folder containg the summaries(HEADNOTES) in the format as specified above.
+ The &lt;description&gt; tag is optional and can be used to indicate the technique used by the team for that particular run. 
+<br />
+<br />
+
+There is no upper limit on the number of runs a team can submit, though it is recommendable that they be reasonable in number. These runs should be added to a single .tar file and uploaded on the link provided below.
+<br />
+<br />
+You can submit your runs <a href="http://irlab.daiict.ac.in/#legal2014.php"><b>here</b></a>.
+<br />
+
+<br />
+
+<h2>
+<p><a name ="Evaluation"></a>
+Evaluation Criteria
+</h2>
+<br />
+<br />
+Evaluation will be based on the line of Rouge (Recall-Oriented Understudy for Gisting Evaluation) measure, taking into consideration how well a 
+system-generated summary covers the content present in the human generated head notes. 
+<br />
+<br />
+Exact evaluation details will be updated soon. 
+<br />
+<br />
+
+
+</p>
+
+<h2> Important Dates </h2>
+<ul>
+<b>
+<li>Training data release: <strike>20 September</strike> (Released)</li>
+<li>Run submission: 	   30 October</li>
+<li>Evaluation Results:    10 November</li>
+<li>Working Notes Due: 	   20 November</li>
+</b>
+</ul>
+
+<h2> Co-ordinating Committee </h2>
+<ul>
+<li> Madhulika Agrawal, DA-IICT Gandhinagar </li>
+<li> Parth Mehta, DA-IICT Gandhinagar </li>
+<li> Mandar Mitra, ISI Kolkata </li>
+<li> Prasenjit Majumder, DA-IICT Gandhinagar </li>
+<!--li> Abhik Majumdar, NLUO Odisha </li-->
+</ul>
+
+<h2> Contact Us</h2><br>
+For the latest updates please join the google mailing group <a href="https://groups.google.com/forum/#!forum/legaltrack">Information Access in Legal Domain</a>
+<br>
+After joing the Group the participants can simply mail their doubts to legaltrack@googlegroups.com <br>
+<br>
+In case of any problem with the mailing list you can contact:<br>
+
+<br> 
+Madhulika Agrawal, DA-IICT<br>
+madhu1agrawal@gmail.com<br>
+<br> Parth Mehta, DA-IICT<br>
+parth.mehta126@gmail.com<br>
+
+<hr/>
+</div>
+<!--#include virtual="foot.html" -->
+

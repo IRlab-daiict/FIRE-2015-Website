@@ -1,0 +1,137 @@
+<!-- img list
+&nbsp;<img src="images/ball.gif"/>
+&nbsp;<img src="images/bulb.png"/>
+&nbsp;<img src="images/spinner.gif"/>
+<img width="75%" src="images/spinner.gif"/>
+-->
+
+<!-- TEMPLATE
+<table width="100%" border="0" cellpadding="0" cellspacing="3">
+<tr>
+  <td align="center">&bull;</td>
+  <td></td>
+</tr>
+</table>
+-->
+
+<div class="left">
+  <h2>Links</h2>
+
+  <table width="100%" border="0" cellpadding="0" cellspacing="3">
+    <tr>
+      <td width="15%" align="center">&bull;</td>
+      <td width="85%"><a href="/fire">Home</a></td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td width="85%"><a href="/fire/2012/schedule.html">Schedule</a></td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td width="85%"><a href="/fire/2012/working-notes.html">Working notes</a></td>
+    </tr>
+    <tr>
+      <td width="15%" align="center"><img width="60%" src="images/spinner.gif"/></td>
+      <td width="85%"><a href="/fire/2012/presentations.html">Presentations</a></td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td width="85%"><a href="/fire/2012/registration.html">Registration</a></td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td width="85%"><a href="/fire/2012/accommodation.html">Accommodation</a></td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td><a href="/fire/data.html">Data</a></td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td><a href="dates.html">Important Dates</a></td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td><a href="committee.html">Committee</a></td>
+    </tr>
+     <tr>
+      <td align="center">&bull;</td>
+      <td><a href="/fire/resources.html">Resources</a></td>
+    </tr>
+    </tr>
+     <tr>
+      <td align="center">&bull;</td>
+      <td><a href="poster.html">Poster</a></td>
+    </tr>
+   <!--tr>
+      <td align="center">&bull;</td>
+      <td><a href="upload.php">Adhoc Run Submission</a></td>
+    </tr-->
+    <tr>
+      <td align="center"><img width="60%" src="images/fire-list.png"/></td>
+      <td><a href="http://groups.google.com/group/fire-list">fire-list</a></td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td><a href="/fire/faq.html">FAQ</a></td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td><a href="http://wikitravel.org/en/Calcutta">About Kolkata</a></td>
+    </tr>
+  </table>
+
+  <h2>Archives</h2>
+  <table width="100%" border="0" cellpadding="0" cellspacing="3">
+    <tr>
+      <td width="15%" align="center">&bull;</td>
+      <td width="85%">
+	<a href="/fire/2011/index.html">FIRE 2011</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td><a href="/fire/2010/index.html">FIRE 2010</a></td>
+    </tr>
+    <tr>
+      <td align="center">&bull;</td>
+      <td><a href="/fire/2008/index.html">FIRE 2008</a></td>
+    </tr>
+  </table>
+
+<h2>Updates</h2>
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 5,
+  interval: 6000,
+  width: 'auto',
+  height: 300,
+  theme: {
+    shell: {
+      //background: '#3d4c6b',
+      //background: '#425969',
+      background: '#ffffff',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#425969',
+      links: '#949494'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: false,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('fire_forum').start();
+</script>
+</div>
+</body>

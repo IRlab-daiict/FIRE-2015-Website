@@ -1,0 +1,42 @@
+                          CALL FOR PARTICIPATION
+     Fourth Workshop of the Forum for Information Retrieval Evaluation
+                                (FIRE 2012)
+                   Indian Statistical Institute, Kolkata
+                            17-19 December 2012
+
+                       /fire
+                   http://www.irsi.res.in/fire (mirror)
+
+Registration for the FIRE 2012 Workshop is now open. The workshop will feature
+talks by leading researchers in the area of Information Retrieval, alongside
+presentations by the participating research groups that took part in the
+FIRE 2012 evaluation exercise.
+
+There will also be an Industry Session, featuring talks by eminent speakers
+from Google, IBM IRL, and Bing, Microsoft.
+
+To register, please go to: /fire/registration.html
+
+
+INVITED SPEAKERS:
+Nicola Ferro, University of Padova, Italy.
+Jaap Kamps, University of Amsterdam, The Netherlands.
+Sree Hari Nagaralu, Bing Relevance and Data Sciences, Microsoft India. 
+Doug Oard, University of Maryland, USA.
+Iadh Ounis, University of Glasgow, UK.
+Paolo Rosso, Universidad Politécnica de Valencia, Spain.
+Giuseppe Santucci, Sapienza University of Rome, Italy.
+
+
+REGISTRATION FEES:
+Participants from India                   Early*    Spot
+Full-time registered students             1000      2000
+Academia, non-profit R&D                  3500      4500
+Industry                                  7500      10000
+
+Participants from abroad                  100 USD
+
+* Deadline for early registration: 3rd December, 2012
+* Values in INR, unless otherwise specified.
+
+Space is limited. Please register early.

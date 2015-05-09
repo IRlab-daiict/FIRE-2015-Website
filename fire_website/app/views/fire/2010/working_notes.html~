@@ -1,0 +1,146 @@
+<h1></h1><!--#include virtual="./start.txt" -->
+<!--#include virtual="./head.txt" -->
+<!--**********************************************************-->
+<!--**********************************************************-->
+<!--starts content of the page-->
+
+
+      <div class="right">
+
+<h2>Working Notes</h2>
+<br>
+	 <!--img src="images/fire.jpg" width="171" height="137" alt="Pic 1" class="left" /-->
+ <table align="center"><tr><td width=100% height=5> <p><font size=5><b></font></b></p></td></tr>
+<tr><td></td></tr>
+</table> 
+
+<table align="left">
+
+<tr><td width=20 valign=top align=center>
+<font size=2><b>1</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/fire-marathi-iitb-15feb10.pdf">Experiments in N-gram based indexing and retrieval in Marathi</a></b><br></font>
+<font size=2><i>Ashish Almeida, Pushpak Bhattacharyya</i><br></font>
+<font size=2>IIT Bombay, India<br></font>
+<font size=1><a href="/fire/paper_2010/slides/almeida.ppt">Download Slide</a><br></font>
+</td></tr>
+
+
+
+<tr><td width=20  valign=top align=center>
+<font size=2><b>2</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/notes.pdf">Overview of the Mailing Lists and Forums Track in FIRE 2010</a></b><br></font>
+<font size=2><i>Ayan Bandyopadhyay, Debapriyo Majumdar*</i><br></font>
+<font size=2>ISI Kolkata ; *IBM Research, India<br></font>
+<font size=1><a href="/fire/paper_2010/slides/mlaf.ppt">Download Slide<br></font></a>
+</td></tr>
+ 
+<tr><td width=20 valign=top align=center>
+<font size=2><b>3</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/Pinaki-Fire-2010_SB_PB_AD_PP.pdf">Theme Based English and Bengali Ad-hoc Monolingual Information Retrieval in FIRE 2010<br></b></font></a>
+<font size=2><i>Pinaki Bhaskar, Amitava Das, Partha Pakray, Sivaji Bandyopadhyay<br></i></font>
+<font size=2>Jadavpur University, India<br></font>
+</td></tr>
+
+<tr><td width=20 valign=top align=center>
+<font size=2><b>4</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/manojchinnakotla.pdf">IITB CFILT @ FIRE 2010: Discriminative Approach to IR <br></b></font></a>
+<font size=2><i>Manoj Chinnakotla, Vishal Vachhani, Shalini Gupta, Karthik Raman, Pushpak Bhattacharyya<br></i></font>
+<font size=2>IIT Bombay, India<br></font>
+<font size=1><a href="/fire/paper_2010/slides/gupta.ppt">Download Slide<br></font></a>
+</td></tr>
+
+<tr><td width=20 valign=top align=center>
+<font size=2><b>5</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/sujaydas-manit-fire2010.pdf">Post Translation Query Expansion using Hindi Word-Net for English-Hindi CLIR System<br></b></font></a>
+<font size=2><i>Sujoy Das, Anurag Seetha*, M. Kumar**, J. L. Rana<br></i></font>
+<font size=2>MANIT Bhopal; *Dr C. V. Raman University ; **SIRT Bhopal, India<br></font>
+</td></tr>
+
+<tr><td  width=20 valign=top align=center>
+<font size=2><b>6</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/Dolamic-UniNE-fire2010.pdf">UniNE at FIRE 2010: Hindi, Bengali, and Marathi IR<br></b></font></a>
+<font size=2><i>Ljiljana Dolamic, Jacques Savoy<br></i></font>
+<font size=2>University of Neuchatel, Switzerland<br></font>
+</td></tr>
+
+<tr><td width=20 valign=top align=center>
+<font size=2><b>7</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/JohannesLeveling-DCU-fire2010.pdf">DCU@FIRE2010: Term Conflation, Blind Relevance Feedback, and Cross-Language IR with Manual and Automatic Query Translation<br></b></font></a>
+<font size=2><i>Johannes Leveling, Debasis Ganguly, Gareth J. F. Jones<br></i></font>
+<font size=2>Dublin City University, Ireland<br></font>
+
+</td></tr>
+
+<tr><td width=20  valign=top align=center>
+<font size=2><b>8</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/loponen-uta-fire2010.pdf">UTA Stemming and Lemmatization Experiments in the Bengali ad hoc Track at FIRE 2010</a></b><br></font>
+<font size=2><i>A. Loponen, J. Paik*, K. Jarvelin</i><br></font>
+<font size=2>University of Tampere, Finland ; *on leave from ISI Kolkata, India<br></font>
+<font size=1><a href="/fire/paper_2010/slides/jarvelin-uta.ppt">Download Slide<br></font></a>
+</td></tr>
+
+<tr><td width=20 valign=top align=center>
+<font size=2><b>9</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/Pattabhi.pdf">AU-KBC FIRE2010 Submission - Cross Lingual Information Retrieval Track: Tamil- English<br></b></font></a>
+<font size=2><i>Pattabhi R. K. Rao T., Sobha. L.<br></i></font>
+<font size=2>AU-KBC Research Centre, India<br></font>
+</td></tr>
+
+<tr><td width=20 valign=top align=left>
+<font size=2><b>10</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/mlaf_IBMIRLOhioState.pdf">
+<!-- Preethi-IBMIRLOhioStateUniv-fire2010_task2.pdf"> -->
+Classification and Retrieval from Mailing Lists and Forums<br></b></font></a>
+<font size=2><i>Preethi Raghavan, Rose Catherine K.*, Shajith Ikbal*, Nanda Kambhatla*<br></i></font>
+<font size=2>Ohio State University, USA; *IBM Research, India<br></font>
+</td></tr>
+
+<tr><td width=20 valign=top align=left>
+<font size=2><b>11</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/MiguelRuiz-unt-fire-2010.pdf">Evaluating Stemmers and Retrieval Fusion Approaches for
+Hindi: UNT at FIRE 2010 <br></b></font></a>
+<font size=2><i>Miguel E. Ruiz, Bharath Dandala<br></i></font>
+<font size=2>University of North Texas, USA<br></font>
+</td></tr>
+
+<tr><td width=20 valign=top align=left>
+<font size=2><b>12</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/Saravanan-MSRI-FIRE2010.pdf">Crosslingual Information Retrieval System Enhanced with Transliteration Generation and Mining<br></b></font></a>
+<font size=2><i>K. Saravanan, Raghavendra Udupa, A. Kumaran<br></i></font>
+<font size=2>Microsoft Research, India<br></font>
+<font size=1><a href="/fire/paper_2010/slides/MSRI-at-FIRE2010.ppt">Download Slide</a><br></font>
+</td></tr>
+
+
+<tr><td width=20 valign=top align=left>
+<font size=2><b>13</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/PankajGulhane.pdf">News Assist : Identifying set of relevant entities used in News Article<br></b></font></a>
+<font size=2><i>Charu Tiwari, Pankaj Gulhane, Amit Madaan, Rupesh Mehta<br></i></font>
+<font size=2>Yahoo Research, India<br></font>
+</td></tr>
+
+<!--
+<tr><td  valign=top>
+<font size=2><b>14</b></font></td><td>
+<font size=2><b><a href="/fire/paper_2010/FIRE-2010_WikEND.pdf">Indian Statistical Institute Kolkata at FIRE 2010: WikEND Track><br></b></font></a>
+<font size=2><i>Kripa Bandhu Ghosh, Swapan Kumar Parui<br></i></font>
+<font size=2>Indian Statistical Institute Kolkata, India<br></font>
+</td></tr>
+-->
+
+
+</table>
+<!--
+</tr>
+</tbody></table>
+-->
+</div>
+
+<!--ends content of the page-->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--#include virtual="./foot.txt" -->
+<!--**********************************************************-->
+<!--#include virtual="./end.txt" -->
+

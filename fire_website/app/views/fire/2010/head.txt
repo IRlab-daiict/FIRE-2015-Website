@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Forum for Information Retrieval Evaluation (FIRE)</title>
+<meta http-equiv="Content-Language" content="English" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+
+</head>
+<body>
+
+<div id="wrap">
+
+<div id="header">
+<table CELLSPACING=0 CELLPADDING=0 border=0 width=100% height=100%>
+<tbody>
+<tr><td width=175 height=20></td><td></td></tr>
+<tr><td width=175 height=40 rowspan=2>
+<a href="http://www.irsi.res.in/"><img src="../images/logo/irsi-logo.png" border=0></a> 
+</td><td></td></tr>
+<tr><td>
+<h1><p align=center><font size=10>F</font>orum for <font size=10>I</font>nformation
+<font size=10>R</font>etrieval <font size=10>E</font>valuation</p></h1>
+<br>
+<h1><p align=center><font size=6>(FIRE)</font></p></h1>
+<br>
+<font size=3><b>19-21 February 2010<br>DAIICT, Gandhinagar</b></font>
+</td></tr>
+</tbody>
+</table>
+
+</div>
+
+<div id="content">
+
+<div class="menu">
+
+<h2>Sponsors:</h2>
+<br><br>
+<center>
+
+<a href="http://www.google.com"><img src="./images/google_logo_1.jpg" width=100 border=0></a>
+<br><br>
+<a href="http://www.yahoo.com"><img src="./images/yahoo_logo.jpg" width=160 border=0></a>
+<br><br>
+<a href="http://www.hp.com"><img src="./images/hp_logo.jpg" width=100 border=0></a>
+<br><br>
+<a href="http://www.research.ibm.com/"><img src="./images/IBM_Logo.gif" width=100 border=0>
+<br><br>
+<a href=""><img src="./images/snltr.png" width=120 border=0></a>
+<br><br>
+<h9>and&nbsp;&nbsp;</h9>
+<br><br>
+<table CELLSPACING=0 CELLPADDING=0>
+        <tbody>
+        <tr><td width=15%></td><td valign=center><font size=5 align =centre height=60><a href="http://mit.gov.in/" style="text-decoration:none">D.I.T</font><br><font size=1>Govt. of India</a></font></b></td><td width=3></td><td><img src="./images/ashok.jpg" width=40 height=60 border=0></td></tr>
+        <tr><td width=15%></td><td valign=center><font size=5 align =centre height=60><a href="http://www.itwb.org/" style="text-decoration:none">D.I.T</font><br><font size=1>Govt. of West Bengal</a></font></b></td><td width=3></td><td><img src="./images/ashok.jpg" width=40 height=60 border=0></td></tr>
+        </tbody></table>
+
+<!--img src="./images/ISI_logo.png" width=100></img>
+<br><br>
+<img src="./images/Daiict.png" height=50 width=95%></img>
+<br><br-->
+
+
+<!--table CELLSPACING=0 CELLPADDING=0>
+        <tbody>
+        <tr><td width=15%></td><td valign=center><font size=5 align =centre
+height=60><a href="http://mit.gov.in/"
+style="text-decoration:none">D.I.T</font><br><font size=1>Govt. of
+India</a></font></b></td><td width=3></td><td><img src="./images/ashok.jpg"
+width=40 height=60></td></tr>
+        <tr><td width=15%></td><td valign=center><font size=5 align =centre
+height=60><a href="http://www.itwb.org/"
+style="text-decoration:none">D.I.T</font><br><font size=1>Govt. of West
+Bengal</a></font></b></td><td width=3></td><td><img src="./images/ashok.jpg"
+width=40 height=60></td></tr>
+        </tbody></table>
+
+        <table>
+        <tr><td></td><td></td></tr>
+        <tr><td width=15%></td><td align =centre ><a
+href="http://research.microsoft.com/"><img src="./images/msr.jpg"
+width=100></a></td></tr>
+        <tr><td></td><td></td></tr>
+        <tr><td width=15%></td><td align =centre ><a
+href="http://www.research.ibm.com/"><img src="./images/IBM_Logo.gif" width=100
+></a></td></tr>
+        </tbody></table-->
+
+</center>
+</div>
+

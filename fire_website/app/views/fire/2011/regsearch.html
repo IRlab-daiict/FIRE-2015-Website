@@ -1,0 +1,18 @@
+<html>
+  <title>Search for Participants</title>
+  <head>
+    <h2>Search for Participants</h2><hr/>
+    <p>
+      Meant for Task coordinators to lookup their participants. Use a
+      regex in the box below and hit &crarr; to retrieve the
+      participant's information matching the query. The standard
+      strings to use for the Task names are : Adhoc, CLTR, MLAF, PIR,
+      RISOT, SMS, WSD. Use .* for the entire list.
+    </p>
+  </head>
+  <body>
+    <form name="grep" method="post" action="regsearch.php">
+      <input name="regex" id="Regex" type="text"/>
+    </form>
+  </body>
+</html>

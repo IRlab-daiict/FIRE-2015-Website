@@ -1,0 +1,163 @@
+<!--#include virtual="./start.txt" -->
+<!--#include virtual="./head.txt" -->
+<!--**********************************************************-->
+
+      <h2>Schedule:</h2>
+<!--**********************************************************-->
+<!--starts content of the page-->
+
+
+      <div id="welcome">
+<font size=3>
+<center>
+<a href="#day1">19.02.2010</a> | <a href="#day2">20.02.2010</a> | <a href="#day3">21.02.2010</a>
+</center>
+</font>
+<h2></h2>
+<a name="top"></a>
+ 
+<a name="day1"></a>
+<font size=2>
+<table>
+      <tr><td><font size=3><b>19.02.2010</b></font></td><td></td><td></td></tr>
+      <tr><td></td><td valign=top>9:30-10:30</td><td><b>- Inauguration and opening remarks<b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> S.C. Sahasrabudhe</i></td></tr>
+
+      <tr><td></td><td valign=top></td><td><b>- To be announced<b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Ganesh Devy</i></td></tr>
+
+
+      <tr><td></td><td valign=top></td><td><b>- About the workshop<b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Prasenjit Majumder</i></td></tr>
+
+
+
+     <tr><td></td><td valign=top></td><td><b>- Overview of FIRE 2010</b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Mandar Mitra</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/overview2010.pdf">Download Slide</a></td></tr>      
+
+      <tr><td></td><td valign=top></td><td><b> Vote of thanks</b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Suman Mitra</i></td></tr>
+
+      <tr><td></td><td valign=top>10:30-11:00</td><td>- High Tea</td></tr>
+
+      <tr><td></td><td valign=top>11:00-11:30</td><td><b>- Overview of the Wikipedia Entity Retrieval track<b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Pabitra Mitra and Ashwin Tengli</i></td></tr>
+
+      <tr><td></td><td valign=top>11:30-12:00</td><td><a href="/fire/paper_2010/notes.pdf"><b>- Overview of the Mailing Lists and Forums track<b></a></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Debapriyo Majumdar</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/mlaf.ppt">Download Slide</a></td></tr>      
+
+
+	<tr><td></td><td valign=top>12:00-13:00</td><td><b>- Ten Years of CLEF: An Assessment</b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Carol Peters</i></td></tr>
+
+      <tr><td></td><td valign=top>13:00-14:15</td><td>- Lunch</td></tr>
+
+      <tr><td></td><td valign=top>14:15-14:45</td><td><a href="/fire/paper_2010/manojchinnakotla.pdf"><b>- IITB CFILT @ FIRE 2010: discriminative approach to IR</b></a></td></tr>      
+      <tr><td></td><td valign=top></td><td><i> Vishal Vachhani</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/gupta.ppt">Download Slide</a></td></tr>      
+
+
+      <tr><td></td><td valign=top>14:45-15:15</td><td><a href="/fire/paper_2010/Saravanan-MSRI-FIRE2010.pdf"><b>- Crosslingual information retrieval system enhanced with transliteration generation and mining<b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> K. Saravanan</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/MSRI-at-FIRE2010.ppt">Download Slide</a></td></tr>      
+
+
+
+      <tr><td></td><td valign=top>15:00-15:30</td><td>- Tea</td></tr>
+
+      <tr><td></td><td valign=top>15:30-16:30</td><td><b>- Evaluation campaigns: what should we do with our data?<b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Nicola Ferro</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/ferro.pdf">Download Slide</a></td></tr>
+
+      <tr><td></td><td valign=top>19:00-21:00</td><td><b>- Banquet</b></td></tr>
+</table>
+<h2></h2>
+<a name="day2"></a>
+<table>
+
+      <tr><td><font size=3><b>20.02.2010</b></font></td><td></td><td></td></tr>
+      <tr><td></td><td valign=top>9:30-10:30</td><td><b>- The MultiMatch project: searching multilingual multimedia cultural heritage collections </b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Gareth Jones</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/jones.pdf">Download Slide</a></td></tr>
+
+
+      <tr><td></td><td valign=top>10:30-10:45</td><td>- Tea</td></tr>
+
+      <tr><td></td><td valign=top>10:45-11:45</td><td><b>- The Centre for Next Generation Localisation</b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Páraic Sheridan</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/sheridan.ppt">Download Slide</a></td></tr>
+
+      <tr><td></td><td valign=top valign=top>11:45-12:45</td><td><b>- Building Test Collections and Associated Evaluation Metrics based on Graded Relevance</b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Kalervo JARVELIN</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/jarvelin.ppt">Download Slide</a></td></tr>
+
+
+      <tr><td></td><td valign=top>12:45-14:00</td><td>- Lunch</td></tr>
+
+      <tr><td></td><td valign=top>14:00-14:30</td><td><a href="/fire/paper_2010/fire-marathi-iitb-15feb10.pdf"><b>- Experiments in N-gram based indexing and retrieval in Marathi<b></a></td></tr>      
+      <tr><td></td><td valign=top></td><td><i> Ashish Almeida</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/almeida.ppt">Download Slide</a></td></tr>      
+
+      <tr><td></td><td valign=top>14:30-15:00</td><td><b>- DCU@FIRE2010: term conflation, blind relevance feedback, and
+cross-language IR with manual and automatic query translation<b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Gareth Jones</i></td></tr>
+
+
+      <tr><td></td><td valign=top>15:00-15:30</td><td>- Tea</td></tr>
+
+      <tr><td></td><td valign=top>15:30-16:00</td><td><a href="/fire/paper_2010/loponen-uta-fire2010.pdf"><b>- UTA stemming and lemmatization experiments in the Bengali ad hoc track at FIRE 2010</b></a></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Kalervo Jarvelin</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/jarvelin-uta.ppt">Download Slide</a></td></tr>      
+
+      <tr><td></td><td valign=top>16:00-17:00</td><td><b>- Creative Information Retrieval:  From Cliques to Categories and Beyond</b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Tony Veale</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/veale.pdf">Download Slide</a></td></tr>
+
+      <tr><td></td><td valign=top>19:00-21:00</td><td><b>- Steering Committee meeting</b></td></tr>
+     
+</table>
+<h2></h2>
+<a name="day3"></a>
+<table>
+
+      <tr><td><font size=3><b>21.02.2010</b></font></td><td></td><td></td></tr>
+      <tr><td></td><td valign=top>09:30-10:30</td><td><b>- Test collection diagnosis and treatment<b></td></tr>      
+      <tr><td></td><td valign=top></td><td><i> Ian Soboroff</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/soboroff.pdf">Download Slide</a></td></tr>      
+
+      <tr><td></td><td valign=top>10:30-10:45</td><td>- Tea</td></tr>
+
+      <tr><td></td><td valign=top>10:45-11:45</td><td><b>- Multilingual word sense disambiguation<b></td></tr>      
+      <tr><td></td><td valign=top></td><td><i> Pushpak Bhattacharya</i></td></tr>
+
+      <tr><td></td><td valign=top>11:45-12:45</td><td><b>- HCIR research at HP Labs India<b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Krishnan Ramanathan</i></td></tr>
+
+      <tr><td></td><td valign=top>12:45-14:00</td><td>- Lunch</td></tr>
+
+
+      <tr><td></td><td valign=top>14:00-15:00</td><td><b>- Building knowledge bases from the Web<b></td></tr>
+      <tr><td></td><td valign=top></td><td><i> Ashwin Tengli</i></td></tr>
+
+      <tr><td></td><td valign=top>15:00-15:30</td><td>- Tea</td></tr>
+
+      <tr><td></td><td valign=top>15:30-16:30</td><td><b>- Querying the annotated Web<b></td></tr>      
+      <tr><td></td><td valign=top></td><td><i> Soumen Chakrabarti</i></td></tr>
+      <tr><td></td><td></td><td><a href="paper_2010/slides/chakrabarti.pdf">Download Slide</a></td></tr>      
+
+
+      <tr><td></td><td valign=top>16:45-17:15</td><td><b>- Closing</b></td></tr>
+
+     
+</table>        
+</font>
+
+<!--ends content of the page-->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--#include virtual="./foot.txt" -->
+<!--**********************************************************-->
+<!--#include virtual="./end.txt" -->

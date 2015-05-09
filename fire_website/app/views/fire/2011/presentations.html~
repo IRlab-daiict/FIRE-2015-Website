@@ -1,0 +1,232 @@
+<!--#include virtual="./start.txt" -->
+<!--#include virtual="./head.html" -->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--starts content of the page-->
+
+
+<!-- TEMPLATE
+<li>
+  <b><a name="NAME">TITLE LINE</a></b>
+  <a href="./slides/FILE.pdf"><img src="./images/pdf.png"/></a>
+  (<a href="abstracts.html#IN-PAGE-LINK">Abstract</a>)<br/>
+  - John Doe, DESIGNATION.<br/>
+</li>
+-->
+
+<!-- TEMPLATE
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+<tr><td colspan="3" bgcolor="#eee9e9">Keynotes</td></tr>
+<tr>
+  <td><a href="slides/slide.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Title</i><br/> - Author, Institute<br/>
+  </td>
+  <td><a href="#">Abstract</a></td>
+</tr>
+</table>
+-->
+
+<div class="right">
+
+<h2>Presentations</h2>
+<br/>
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+<tr><td colspan="3" bgcolor="#eedfcc"><b>Keynote</b><br/></td></tr>
+<tr>
+  <td><a href="slides/fire.2011.choukri.khalid.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>European Language Resources Association (ELRA) and its language
+    technology evaluation</i><br/> - Khalid Choukri, ELDA,
+    France.<br/>
+  </td>
+  <td><a href="#">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.ferro.nicola.pdf"><img src="images/pdf.png"/></a><br/></td>
+  <td>
+    <i>CLEF and PROMISEs</i><br/> - Nicola Ferro, University of
+    Padova, Italy.<br/>
+  </td>
+  <td><a href="#">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.harman.donna.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Building Test Collections</i><br/> - Donna Harman, National
+    Institute of Standards and Technology, USA.<br/>
+  </td>
+  <td><a href="abstracts.html#Harman">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.jarvelin.kalervo.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>User studies in IR: Toward user and task based
+    evaluation</i><br/> - Kalervo Jarvelin, School of Information
+    Sciences, University of Tampere, Finland.<br/>
+  </td>
+  <td><a href="abstracts.html#Jarvelin">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.joho.hideo.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>NTCIR-9 and Beyond</i><br/> - Hideo Joho, University of
+    Tsukuba, Japan.<br/>
+  </td>
+  <td><a href="abstracts.html#Joho">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.jones.gareth.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>MediaEval 2011 Evaluation Campaign</i><br/> - Gareth Jones,
+    Dublin City University, Ireland.<br/>
+  </td>
+  <td><a href="abstracts.html#Jones">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="./slides/fire.2011.kamps.jaap.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>IR Evaluation in Context</i><br/> - Jaap Kamps, University of
+    Amsterdam, The Netherlands.<br/>
+  </td>
+  <td><a href="abstracts.html#Kamps">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.kurland.oren.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Utility Estimation Framework for Query-performance
+    Prediction</i><br/> - Oren Kurland, Israel Institute of
+    Technology, Israel.<br/>
+  </td>
+  <td><a href="abstracts.html#Kurland">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.oard.doug.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>The Recall Problem in Cross-Language Information
+    Retrieval</i><br/>
+  </td>
+  <td><a href="abstracts.html#Oard">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.oard.doug.risot.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>RISOT : Retrieval from Indic Script OCRed Text</i><br/> - Doug
+    Oard, University of Maryland, College Park, USA.<br/>
+  </td>
+  <td><a href="#">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.peters.carol.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>The Importance of Evaluation in MLIR System
+    Development</i><br/> - Carol Peters, ISTI-CNR, Italy.<br/>
+  </td>
+  <td><a href="abstracts.html#Peters">Abstract</a></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.robertson.stephen.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Why Recall Matters</i><br/> - Stephen Robertson, Microsoft
+    Research, Cambridge, UK.<br/>
+  </td>
+  <td><a href="abstracts.html#Robertson">Abstract</a></td>
+</tr>
+</table>
+<br/>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+<tr><td colspan="3" bgcolor="#eedfcc"><b>Overview Talk</b><br/></td></tr>
+<tr>
+  <td><a href="slides/fire.2011.majumder.prasenjit.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>FIRE 2011 Overview</i><br/> -
+    Prasenjit Majumder<br/>
+  </td>
+  <td></td>
+</tr>
+<tr>
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+<tr><td colspan="3" bgcolor="#eedfcc"><b>CLITR</b><br/></td></tr>
+<tr>
+  <td><a href="slides/fire.2011.clitr1.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Mapping Hindi-English Text Re-use Document Pairs</i><br/> -
+    Parth Gupta, NLE Lab, UPV Spain.<br/>Khushboo Singhal, IR-Lab,
+    DA-IICT India.<br/>
+  </td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.clitr2.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Cross Lingual Text Reuse Detection Using Key phrase Extraction and Similarity Measures</i><br/> - Rambhoopal K.<br/>Vasudeva Verma, IIIT Hyderabad, India.<br/>
+  </td>
+  <td></td>
+</tr>
+</table>
+<br/>
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+<tr><td colspan="3" bgcolor="#eedfcc"><b>Personalised IR</b><br/></td></tr>
+<tr>
+  <td><a href="slides/fire.2011.pir1.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Overview of Personalized Information Retrieval Track @
+    FIRE-2011</i><br/> - Debasis Ganguly, Johannes Leveling, Keith
+    Curtis, Wei Li, Gareth Jones. School of Computing, CNGL, Dublin
+    City University.<br/>
+  </td>
+  <td></td>
+</tr>
+</table>
+<br/>
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+  <tr><td colspan="3" bgcolor="#eedfcc"><b>SMS-based FAQ Retrieval</b><br/></td></tr>
+<tr>
+  <td><a href="slides/fire.2011.sms1.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>SMS based FAQ retrieval</i><br/> - Nishit Shivhre, RVCE,
+    Bangalore.<br/>
+  </td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.sms2.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>A Naive File Based Approach forSMS Based FAQ retrieval</i><br/>
+    - Ashish Raste, Santhosh Bhargav, Venkata Narasimhan, SASTRA
+    University<br/>
+  </td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.sms3.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Improving Accuracy of SMS based FAQ Retrieval</i><br/> - Anwar
+    Shaikh, Mukul Jain, Mukul Rawat, Rajiv Ratn, Delhi Technological
+    University (DTU)<br/>
+  </td>
+  <td></td>
+</tr>
+<tr>
+  <td><a href="slides/fire.2011.sms4.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Data-driven Methods for SMS-based FAQ Retrieval</i><br/> -
+    Sanmitra Bhattacharya, Hung Tran, Padmini Srinivasan. Computer
+    Science, University of Iowa, USA.<br/>
+  </td>
+  <td></td>
+</tr>
+</table>
+</div>
+
+<!--ends content of the page-->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--#include virtual="./foot.html" -->
+<!--**********************************************************-->
+<!--#include virtual="./end.txt" -->

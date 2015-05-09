@@ -1,0 +1,180 @@
+<!--#include virtual="./head.html" -->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--starts content of the page-->
+
+
+<div class="right">
+
+<h2>Presentations</h2>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+<tr><td colspan="3" bgcolor="#eedfcc"><b>Overview talks</b><br/></td></tr>
+<tr>
+  <td><a href="slides/overview_prasenjit_fire2014.ppt"><img src="images/ppt.png"/></a></td>
+  <td>
+    <i>FIRE 2014 Overview</i><br/> -
+    Prasenjit Majumder<br/>
+  </td>
+  <td></td>
+</tr>
+</table>
+
+<!-- Keynotes -->
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+<tr><td colspan="3" bgcolor="#eedfcc"><b>Keynotes</b><br/></td></tr>
+
+<tr>
+  <td><a href="slides/keynote_doug_fire13.pptx"><img src="images/ppt.png"/></a></td>
+  <td>
+    <i>Finding Pages on the Unarchived Web</i>
+    <br/> - Jaap Kamps, University of Amsterdam, The Netherlands.<br/>
+  </td>
+  <td><a href="abstracts.html#Jaap">Abstract</a></td>
+</tr>
+
+</table>
+<br/>
+<!-- =========== -->
+
+<!-- Track overviews -->
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+<tr><td colspan="3" bgcolor="#eedfcc"><b>Track overviews</b><br/></td></tr>
+
+<tr>
+  <td><a href="slides/overview_clinss_fire13.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>CL!NSS</i>
+    <br/> - Parth Gupta, NLE Lab, UPV Spain.<br/>
+  </td>
+  <td></td>
+</tr>
+</tr>
+</table>
+<br/>
+<!-- =========== -->
+
+<!-- CL!NSS track talks -->
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+
+<tr><td colspan="3" bgcolor="#eedfcc"><b>CL!NSS track talks </b><br/></td></tr>
+
+<tr>
+  <td><a href="slides/clinss_amogh_fire13.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Leveraging Article Titles for Cross-lingual Linking of Focal News Events</i>
+    <br/> - Amogh Param.<br/>
+  </td>
+  <td></td>
+</tr>
+<br/>
+
+</tr>
+</table>
+<br/>
+
+
+<!-- Legal track talks -->
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+
+<tr><td colspan="3" bgcolor="#eedfcc"><b>Legal track talks </b><br/></td></tr>
+
+<tr>
+  <td><a href="slides/legal_paulo_fire13.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>Information Retrieval Based on Extraction of Domain Specific Information ...</i>
+     <br/> - Paulo Quaresma.<br/>
+  </td>
+  <td></td>
+</tr>
+
+</tr>
+</table>
+<br/>
+<!-- =========== -->
+
+<!-- MET track talks -->
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+
+<tr><td colspan="3" bgcolor="#eedfcc"><b>MET track talks </b><br/></td></tr>
+
+<tr>
+  <td><a href="slides/met_amit_fire13.pptx"><img src="images/ppt.png"/></a></td>
+  <td>
+    <i>ISM@FIRE MET-2014</i>
+     <br/> - Amit Jain.<br/>
+  </td>
+  <td></td>
+</tr>
+
+
+</table>
+<br/>
+<!-- =========== -->
+
+<!-- NER track talks -->
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+
+<tr><td colspan="3" bgcolor="#eedfcc"><b>NER track talks </b><br/></td></tr>
+
+<tr>
+  <td><a href="slides/ner_dinesh_fire13.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>ISM@FIRE-2014 NER Indian Languages Task</i>
+     <br/> - Dinesh Kumar Prabhakar.<br/>
+  </td>
+  <td></td>
+</tr>
+
+
+</table>
+<br/>
+
+<!-- Shared Task on Transliterated Search track talks -->
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+
+<tr><td colspan="3" bgcolor="#eedfcc"><b>Shared Task on Transliterated Search track talks </b><br/></td></tr>
+
+<tr>
+  <td><a href="slides/translit_dinesh_fire13.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>FIRE@ISM-2014 Transliterated Search Task</i>
+     <br/> - Dinesh Kumar Prabhakar.<br/>
+  </td>
+  <td></td>
+</tr>
+
+
+</table>
+<br/>
+
+
+<!-- -->
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+  <tr><td colspan="3" bgcolor="#eedfcc"><b>Other evaluation forums</b><br/></td></tr>
+<tr>
+  <td><a href="slides/other_ntcir_fire13.pdf"><img src="images/pdf.png"/></a></td>
+  <td>
+    <i>NTCIR</i><br/> - Doug Oard, University of Maryland, College Park, USA.<br/>
+  </td>
+  <td></td>
+</tr>
+</table>
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+  <tr><td colspan="3" bgcolor="#eedfcc"><b></b><br/></td></tr>
+</table>
+
+
+</div>
+
+<!--ends content of the page-->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--#include virtual="./foot.html" -->
+<!--**********************************************************-->

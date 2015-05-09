@@ -1,0 +1,315 @@
+<!--#include virtual="./start.txt" -->
+<!--#include virtual="./head.txt" -->
+<div class="right">
+<h2>Data</h2><br/>
+
+<!-- TEMPLATE
+<table width="100%" border="0">
+<tr><td colspan="5">Task</td></tr>
+<tr>
+  <td><i>Item</i></td>
+  <td><a href="#"><b>Corpus</b></a></td>
+  <td><a href="#"><b>Queries</b></a></td>
+  <td><a href="#"><b>Qrels</b></a></td>
+  <td><a href="#"><b>Results</b></a></td>
+<tr>
+</table>
+-->
+
+<b>2012</b><hr/>
+<i>* Coming soon.</i><br/>
+<br/>
+<b>2011</b><hr/><br/>
+<table width="100%" border="0">
+  <tr><td colspan="5" bgcolor="#eedfcc">AD HOC</td></tr>
+  <tr>
+    <td><i>Bengali</i></td>
+    <td><a href="../data/docs/adhoc/bn.docs.2011.05092011.tar.gpg"><b>Corpus</b></a></td>
+    <td><a href="../data/topics/bn.topics.126-175.2011.txt"><b>Queries</b></a></td>
+    <td><a href="../data/qrels/adhoc/bn.qrels.126-175.2011.txt.gz"><b>Qrels</b></a></td>
+    <td><a href="../data/results/bn.results.126-175.2011.tgz"><b>Results</b></a></td>
+  <tr>
+  <tr>
+    <td><i>English</i></td>
+    <td><a href="../data/docs/adhoc/en.docs.2011.tar.gpg"><b>Corpus</b></a></td>
+    <td><a href="../data/topics/en.topics.126-175.2011.txt"><b>Queries</b></a></td>
+    <td><a href="../data/qrels/adhoc/en.qrels.126-175.2011.txt.gz"><b>Qrels</b></a></td>
+    <td><a href="../data/results/en.results.126-175.2011.tgz"><b>Results</b></a></td>
+  <tr>
+  <tr>
+    <td><i>Gujarati</i></td>
+    <td><a href="../data/docs/adhoc/gu.docs.2011.tar.gpg"><b>Corpus</b></a></td>
+    <td><a href="../data/topics/gu.topics.126-175.2011.txt"><b>Queries</b></a></td>
+    <td><a href="../data/qrels/adhoc/gu.qrels.126-175.2011.txt.gz"><b>Qrels</b></a></td>
+    <td></td>
+  <tr>
+  <tr>
+    <td><i>Hindi</i></td>
+    <td><a href="../data/docs/adhoc/hi.docs.2011.tar.gpg"><b>Corpus</b></a></td>
+    <td><a href="../data/topics/hi.topics.126-175.2011.txt"><b>Queries</b></a></td>
+    <td><a href="../data/qrels/adhoc/hi.qrels.126-175.2011.txt.gz"><b>Qrels</b></a></td>
+    <td></td>
+  <tr>
+  <tr>
+    <td><i>Marathi</i></td>
+    <td><a href="../data/docs/adhoc/mr.docs.2010.tar.gpg"><b>Corpus</b></a></td>
+    <td><a href="../data/topics/mr.topics.126-175.2011.txt"><b>Queries</b></a></td>
+    <td><a href="../data/qrels/adhoc/mr.qrels.126-175.2011.txt.gz"><b>Qrels</b></a></td>
+    <td><a href="../data/results/mr.results.126-175.2011.tgz"><b>Results</b></a></td>
+  <tr>
+  <tr>
+    <td><i>Tamil</i></td>
+    <td><a href="../data/docs/adhoc/ta.docs.2011.tar.gpg"><b>Corpus</b></a></td>
+    <td><a href="../data/topics/ta.topics.126-175.2011.txt"><b>Queries</b></a></td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr>
+    <td><i>Telugu</i></td>
+    <td>Corpus</td>
+    <td><a href="../data/topics/te.topics.126-175.2011.txt"><b>Queries</b></a></td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr><td colspan="5"  bgcolor="#dccdc0">CL!TR</td></tr>
+  <tr>
+    <td></td>
+    <td>
+      <a href="http://memex2.dsic.upv.es/workshops/2011/clitr/corpus.html"><b>Corpus</b></a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr><td colspan="5"  bgcolor="#eedfcc">MLAF</td></tr>
+  <tr>
+    <td></td>
+    <td>
+      <a href="../data/docs/mlaf/mlaf.docs.2011.tgz.gpg"><b>Corpus</b></a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr><td colspan="5"  bgcolor="#dccdc0">RISOT</td></tr>
+  <tr>
+    <td></td>
+    <td>
+      <a href="../data/docs/risot/risot.data.2011.zip.gpg"><b>Corpus</b></a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  <tr>
+</table>
+<br/>
+
+<table width="100%" border="0">
+  <tr><td colspan="3"  bgcolor="#efefef">Credits</td></tr>
+  <tr>
+    <td rowspan="2" valign="top">Gujarati</td>
+    <td>Corpus (Gujarat Samachar)</td>
+    <td><a href="http://irlab.daiict.ac.in">DAIICT</a> (<a href="mailto:khusboo.a.singhal@gmail.com">Khushboo A. Singhal</a>)</td>
+  </tr>
+  <tr>
+    <td>Query translation</td>
+    <td><a href="http://irlab.daiict.ac.in">DAIICT</a> (<a href="mailto:">Rini Joshi</a>)</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Hindi</td>
+    <td>Corpus (Indiatimes)</td>
+    <td><a href="http://irlab.daiict.ac.in">DAIICT</a> (<a href="mailto:khusboo.a.singhal@gmail.com">Khushboo A. Singhal</a>)</td>
+  </tr>
+  <tr>
+    <td>Query translation</td>
+    <td><a href="http://www.cdacnoida.in/snlp">CDAC Noida</a> (<a href="mailto:gourmohan@cdac.in">Gour Mohan</a>)</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Tamil</td>
+    <td>Corpus (Dinamalar)</td>
+    <td rowspan="2" valign="top"><a href="http://cse.iitkgp.ac.in/">IIT Kharagpur</a> (<a href="mailto:rajendra@cse.iitkgp.ernet.in">Rajendra Prasath</a>)</td>
+  </tr>
+  <tr>
+    <td>Query translation</td>
+  </tr>
+  <tr>
+    <td valign="top">Telugu</td>
+    <td>Query translation</td>
+    <td><a href="http://search.iiit.ac.in/clia">IIIT Hyderabad</a> (<a href="mailto:bhupal_iiit@research.iiit.ac.in">Ram Bhupal Reddy</a>)</td>
+  </tr>
+</table>
+<br/>
+<b>2010</b><hr/><br/>
+<table width="100%" border="0">
+  <tr><td colspan="5" bgcolor="#eedfcc">AD HOC</td></tr>
+  <tr>
+    <td valign="top"><i>Bengali</i></td>
+    <td valign="top"><a href="../data/docs/adhoc/bn.docs.2010.tgz.gpg"><b>Corpus</b></a></td>
+    <td>
+      <a href="../data/topics/adhoc/bn.topics.76-125.2010.txt"><b>Queries</b></a><br/>
+      <a href="../data/topics/adhoc/bn.trans.topics.76-125.2010.txt.gz"><b>Queries</b>(Transliterated)
+      </a>
+    </td>
+    <td valign="top"><a href="../data/qrels/adhoc/bn.qrels.76-125.2010.txt.gz"><b>Qrels</b></a></td>
+    <td valign="top"><a href="../data/results/adhoc/bn.results.76-125.2010.tgz"><b>Results</b></a></td>
+  <tr>
+  <tr>
+    <td><i>English</i></td>
+    <td><a href="../data/docs/adhoc/en.docs.2010.tgz.gpg"><b>Corpus</b></a></td>
+    <td><a href="../data/topics/adhoc/en.topics.76-125.2010.txt"><b>Queries</b></a></td>
+    <td><a href="../data/qrels/adhoc/en.qrels.76-125.2010.txt.gz"><b>Qrels</b></a></td>
+    <td><a href="../data/results/en.results.76-125.2010.tgz"><b>Results</b></a></td>
+  <tr>
+  <tr>
+    <td><i>Gujarati</i></td>
+    <td></td>
+    <td><a href="../data/topics/adhoc/gu.topics.76-125.2010.txt"><b>Queries</b></a></td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr>
+    <td valign="top"><i>Hindi</i></td>
+    <td valign="top"><a href="../data/docs/adhoc/hi.docs.2010.tgz.gpg"><b>Corpus</b></a></td>
+    <td>
+      <a href="../data/topics/hi.topics.76-125.2010.txt"><b>Queries</b></a><br/>
+      <a href="../data/topics/hi.trans.topics.76-125.2010.txt"><b>Queries</b>(Transliterated)</a>
+    </td>
+    <td valign="top"><a href="../data/qrels/adhoc/hi.qrels.76-125.2010.txt.gz"><b>Qrels</b></a></td>
+    <td valign="top"><a href="../data/qrels/adhoc/hi.results.76-125.2010.txt.gz"><b>Results</b></a></td>
+  <tr>
+  <tr>
+    <td><i>Marathi</i></td>
+    <td><a href="../data/docs/adhoc/mr.docs.2010.tgz.gpg"><b>Corpus</b></a></td>
+    <td><a href="../data/topics/adhoc/mr.topics.76-125.2010.txt"><b>Queries</b></a></td>
+    <td><a href="../data/qrels/adhoc/mr.qrels.76-125.2010.txt.gz"><b>Qrels</b></a></td>
+    <td><a href="../data/results/adhoc/mr.results.76-125.2010.tgz"><b>Results</b></a></td>
+  <tr>
+  <tr>
+    <td><i>Tamil</i></td>
+    <td></td>
+    <td><a href="../data/topics/adhoc/ta.topics.76-125.2010.txt"><b>Queries</b></a></td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr>
+    <td><i>Telugu</i></td>
+    <td></td>
+    <td><a href="../data/topics/adhoc/te.topics.76-125.2010.txt"><b>Queries</b></a></td>
+    <td></td>
+    <td></td>
+  <tr>
+  <tr><td colspan="5" bgcolor="#dccdc0">MLAF</td></tr>
+  <tr>
+    <td></td>
+    <td valign="top">
+      <a href="../data/docs/mlaf/mlaf.docs.2010.tgz.gpg"><b>Corpus</b></a><br/>
+    </td>
+    <td>
+      <a href="../data/topics/mlaf/mlaf.topics.1-25.2010.txt.gz"><b>Queries</b>(Ad
+      hoc retrieval)</a><br/>
+      <a href="../data/topics/mlaf/mlaf.THREAD-ID_DOCNO_table.2010.txt.gz"><b>THREAD-ID
+      to DOCNO table</b></a>
+    </td>
+    <td valign="top">
+      <a href="../data/qrels/mlaf/mlaf.task1.qrel.1-25.2010.txt.gz"><b>Qrels</b>(Ad
+      hoc retrieval)</a><br/>
+      <a href="../data/qrels/mlaf/mlaf.task2.qrel.1-25.2010.txt.gz"><b>Qrels</b>(Classification
+      of messages)</a>
+    </td>
+    <td>
+      <a href="../data/topics/mlaf/mlaf.classification.train.2010.txt.gz"><b>Training
+      set</b></a><br/>
+      <a href="../data/topics/mlaf/mlaf.classification.test.2010.txt.gz"><b>Test
+      set</b>(Classification of messages)</a>
+    </td>
+  <tr>
+  <tr><td colspan="5" bgcolor="#eedfcc">Wikipedia-Entity Retrieval</td></tr>
+  <tr>
+    <td></td>
+    <td valign="top">
+      <a href="http://download.wikimedia.org/enwiki/20090914/enwiki-20090914-pages-articles.xml.bz2"><b>Corpus</b></a>
+    </td>
+    <td valign="top"><a href="../data/topics/wiki/wiki.topics.0-24.2010.xml.gz"><b>Queries</b></a></td>
+    <td valign="top"><a href="../data/qrels/wiki/wiki.qrel.0-24.2010.txt.gz"><b>Qrels</b></a></td>
+    <td></td>
+  <tr>
+</table>
+<br/><br/>
+
+<table width="100%" border="0">
+  <tr><td colspan="3"  bgcolor="#efefef">Credits</td></tr>
+  <tr>
+    <td>Marathi</td>
+    <td>Query translation</td>
+    <td><a href="http://www.cfilt.iitb.ac.in">CFILT, IIT Bombay</a> 
+    (<a href="mailto:ashishfa@cse.iitb.ac.in">Ashish Almeida</a>)</td>
+  </tr>
+  <tr>
+    <td>Tamil</td>
+    <td>Query translation</td>
+    <td><a href="http://www.au-kbc.org/">AU-KBC</a> 
+    (<a href="mailto:pattabhi@au-kbc.org">Pattabhi R. K. Rao</a>)</td>
+  </tr>
+  <tr>
+    <td>Telegu</td>
+    <td>Query translation</td>
+    <td><a href="http://www.au-kbc.org/">AU-KBC</a> 
+    (<a href="mailto:pattabhi@au-kbc.org">Pattabhi R. K. Rao</a>)</td>
+  </tr>
+  <tr>
+    <td>Gujarati</td>
+    <td>Query translation</td>
+    <td>(<a href="mailto:patel_kalyani_05@yahoo.co.in">Kalyani Patel</a>)</td>
+  </tr>
+</table>
+<br/>
+<b>2008</b><hr/><br/>
+<table width="100%" border="0">
+<tr><td colspan="5" bgcolor="#eedfcc">AD HOC</td></tr>
+<tr>
+  <td><i>Bengali</i></td>
+  <td></td>
+  <td><a href="../data/topics/adhoc/bn.topics.26-75.2008.txt.gz"><b>Queries</b></a></td>
+  <td><a href="../data/qrels/adhoc/bn.qrels.26-75.2008.txt.gz"><b>Qrels</b></a></td>
+  <td></td>
+<tr>
+<tr>
+  <td><i>English</i></td>
+  <td></td>
+  <td><a href="../data/topics/adhoc/en.topics.26-75.2008.txt.gz"><b>Queries</b></a></td>
+  <td><a href="../data/qrels/adhoc/en.qrels.26-75.2008.txt.gz"><b>Qrels</b></a></td>
+  <td></td>
+<tr>
+<tr>
+  <td><i>Hindi</i></td>
+  <td><a href="../data/docs/adhoc/hi.docs.2008.tgz.gpg"><b>Corpus</b></a></td>
+  <td><a href="../data/topics/adhoc/hi.topics.26-75.2008.txt.gz"><b>Queries</b></a></td>
+  <td><a href="../data/qrels/adhoc/hi.qrels.26-75.2008.txt.gz"><b>Qrels</b></a></td>
+  <td></td>
+<tr>
+<tr>
+  <td><i>Marathi</i></td>
+  <td></td>
+  <td><a href="../data/topics/adhoc/mr.topics.26-75.2008.txt.gz"><b>Queries</b></a></td>
+  <td><a href="../data/qrels/adhoc/mr.qrels.26-75.2008.txt.gz"><b>Qrels</b></a></td>
+  <td></td>
+<tr>
+<tr>
+  <td><i>Tamil</i></td>
+  <td></td>
+  <td><a href="../data/topics/adhoc/ta.topics.26-75.2008.txt.gz"><b>Queries</b></a></td>
+  <td></td>
+  <td></td>
+<tr>
+<tr>
+  <td><i>Telugu</i></td>
+  <td></td>
+  <td><a href="../data/topics/adhoc/te.topics.26-75.2008.txt.gz"><b>Queries</b></a></td>
+  <td></td>
+  <td></td>
+<tr>
+</table>
+
+</div>
+<!--#include virtual="./foot.txt" -->
+<!--#include virtual="./end.txt" -->

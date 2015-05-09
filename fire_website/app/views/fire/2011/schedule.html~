@@ -1,0 +1,109 @@
+<!--#include virtual="./start.txt" -->
+<!--#include virtual="./head.html" -->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--starts content of the page-->
+
+<!-- Color scheme
+Lavender         #e6e6fa : Day
+Antique White 2  #eedfcc : Intro
+Old Lace         #fdf5e6 : Adhoc
+Snow 2           #eee9e9 : CL!TR
+Seashell 2       #eee5de : Keynotes
+Ivory 2          #eeeee0 : SMS
+Lavender Blush   #fff0f5 : SWS@
+Ivory            #fffff0 : filler
+Mint cream       #f5fffa :
+Lavender Blush 2 #ebdde2 :
+Corn Silk 2      #eee8dc : 
+Honey Dew 2      #e0eee0 :
+Rosy Brown 2     #e8adaa :
+White Smoke      #f5f5f5 :
+Gainsboro        #dccdc  :
+Steel Blue       #4682b4 :
+Cornsilk         #fff8dc :
+Bisque 2         #eed5b7 :  
+Seashell 3       #cdc5bf :
+Light Slate Gray #778899 :
+-->
+<!-- Stub for convenince
+<tr><td>00:00-00:00</td><td></td></tr>
+-->
+
+<div class="right">
+<h2>Schedule</h2>
+<br/>
+
+<div align="center">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+
+  <!-- Day 1 -->
+  <tr bgcolor="#eedfcc">
+    <td></td>
+    <td><i>December 2, 2011 Friday</i></td>
+  </tr>
+  <tr><td>09:30-10:30</td><td>Inauguration</td></tr>
+  <tr><td>10:30-11:00</td><td><a href="abstracts.html#Donna">Donna Harman</a></td></tr>
+  <tr><td>11:00-11:30</td><td><a href="abstracts.html#Robertson">Stephen Robertson</a></td></tr>
+  <tr><td>11:30-12:00</td><td>Break</td></tr>
+  <tr><td>12:00-13:30</td><td>FIRE Overview</td></tr>
+  <tr><td></td><td>Task Overview: SMS-based FAQ Retrieval</td></tr>
+  <tr><td></td><td>Task Overview: CL!TR</td></tr>
+  <tr><td>13:30-14:30</td><td>Lunch</td></tr>
+  <tr><td>14:30-15:30</td><td>Adhoc Task talks</td></tr>
+  <tr><td></td><td>SMS-based FAQ Retrieval Task talks</td></tr>
+  <tr><td>15:30-16:00</td><td>Tea</td></tr>
+  <tr><td>16:00-16:30</td><td><a href="abstracts.html#Oard">Doug Oard</a></td></tr>
+  <tr><td>16:30-17:30</td><td>Task Overview: PIR</td></tr>
+  <tr><td></td><td>Task Overview: RISOT</td></tr>
+  <tr><td>17:30-18:30</td><td>Steering Committee meeting</td></tr>
+  <tr><td>19:30-21:30</td><td>Banquet and Cultural Evening</td></tr>
+
+  <!-- Day 2 -->
+  <tr bgcolor="#eedfcc">
+    <td></td>
+    <td><i>December 3, 2011 Saturday</i></td>
+  </tr>
+  <tr><td>09:30-10:00</td><td><a href="abstracts.html#Peters">Carol Peters</a></td></tr>
+  <tr><td>10:00-10:30</td><td><a href="abstracts.html#Jones">Gareth Jones</a></td></tr>
+  <tr><td>10:30-11:00</td><td><a href="abstracts.html#Peters">Carol Peters</a></td></tr>
+  <tr><td>11:00-11:30</td><td><a href="abstracts.html#Rajput">Nitendra Rajput</a></td></tr>
+  <tr><td>11:30-12:00</td><td>Break</td></tr>
+  <tr><td>12:00-12:30</td><td><a href="abstracts.html#Choukri">Khalid Choukri</a></td></tr>
+  <tr><td>12:30-13:30</td><td>SMS-based FAQ Retrieval talks</td></tr>
+  <tr><td>13:30-14:30</td><td>Lunch</td></tr>
+  <tr><td>14:30-15:30</td><td>SMS-based FAQ Retrieval talks</td></tr>
+  <tr><td>15:30-16:00</td><td>Tea</td></tr>
+  <tr><td>16:00-17:00</td><td>SMS-based FAQ Retrieval talks</td></tr>
+  <tr><td>18:30-20:30</td><td>Odissi, an Indian Classical dance performance.</td></tr>
+
+  <!-- Day 3 -->
+  <tr bgcolor="#eedfcc">
+    <td></td>
+    <td><i>December 4, 2011 Sunday</i></td>
+  </tr>
+  <tr><td>09:30-10:00</td><td><a href="abstracts.html#Joho">Hideo Joho</a></td></tr>
+  <tr><td>10:00-10:30</td><td><a href="abstracts.html#Kamps">Jaap Kamps</a></td></tr>
+  <tr><td>10:30-11:00</td><td><a href="abstracts.html#Kurland">Oren Kurland</a></td></tr>
+  <tr><td>11:00-11:30</td><td><a href="abstracts.html#Jarvelin">Kalervo Jarvelin</a></td></tr>
+  <tr><td>11:30-12:00</td><td>Break</td></tr>
+  <tr><td>12:00-12:30</td><td>CL!TR Task talks</td></tr>
+  <tr><td>12:30-13:30</td><td>CL!TR Task talks</td></tr>
+  <tr><td>13:30-14:30</td><td>Lunch</td></tr>
+  <tr><td>14:30-15:30</td><td>CL!TR Task talks</td></tr>
+  <tr><td>15:30</td><td>Tea</td></tr>
+
+</table>
+</div>
+
+<hr/>
+
+</div>
+<!--ends content of the page-->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--#include virtual="./foot.html" -->
+<!--**********************************************************-->
+<!--#include virtual="./end.txt" -->

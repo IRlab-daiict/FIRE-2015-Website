@@ -1,0 +1,4 @@
+#!/bin/bash
+#date -u >/user1/project/clia/Dropbox/public_html.clia/f
+t=`date +%D-%T`
+awk -v time=$t 'BEGIN{print time}{gsub(/[0-9][0-9]\/.*\:[0-9][0-9]$/, time, $0)}' /tmp/head.html

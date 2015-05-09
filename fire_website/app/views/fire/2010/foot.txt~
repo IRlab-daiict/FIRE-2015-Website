@@ -1,0 +1,65 @@
+<div class="left">
+
+<h2>Links</h2>
+<ul>
+  <li><a href="/fire/index.html">Home</a></li>
+  <li><a href="./index.html">FIRE 2010 Home</a></li>
+  <li><a href="./committee.html">Committees</a></li>
+  <li><a href="./speakers.html">Invited Speakers</a></li>
+  <li><a href="./dates.html">Important Dates</a></li>
+  <!--li><a href="./talip.html">ACM TALIP special issue on ILIR</a></li>
+  <li><a href="./resources.html">Resources</a></li-->
+  <li><a href="./data_download.html">FIRE 2010 Data</a></li>
+  <li><a href="./task-guideline.html">Task guidelines</a></li>
+  <li><a href="./working_notes.html">Working Notes</a></li>
+  <li><a href="./photo.html">Photographs</a></li>
+  <li><a href="http://www.daiict.ac.in/daiict/misc/about_gandhinagar.html">About Gandhinagar</a></li>
+  <li><a href="http://groups.google.com/group/fire-list">Discussion Forum</a></li>
+  <li><a href="../contact.html">Contact us</a></li>
+  </ul>
+	  
+<h2>News</h2>
+<ul>
+  <li>
+  <font color="#425969">	
+    <a href="http://www.springer.com/lncs">LNCS</a> will publish the
+    post-proceedings of FIRE 2010.
+  </font>
+    <br>
+    <a href="http://www.springer.com/lncs">
+      <img src="../images/logo/lncs_logo.jpg" border=0 alt="LNCS"/>
+    </a>
+  </li>
+  <br>
+  <li><font color="#425969">ACM TALIP Vol 9<br>
+      <a href="http://portal.acm.org/citation.cfm?id=1838745&picked=prox">Issue 3</a> & 
+      <a href="http://portal.acm.org/citation.cfm?id=1838751&picked=prox&CFID=7378897&CFTOKEN=884		72882">Issue 4</a>.
+      <br>Special issue on ILIR.
+    </font>
+    <br>
+      <a href="http://talip.acm.org/">
+	<img src="../images/logo/talip-logo.gif" width=120 height=60 border=0 alt="ACM TALIP"/>
+      </a>
+  </li>
+  <br>
+  <li><a href="../news-archive.html">News Archive</a></li>
+</ul>
+
+<h2>Archives</h2>
+<ul>
+<li><a href="/fire/2010/index.html">FIRE 2010</a></li>
+<li><a href="/fire/2008/index.html">FIRE 2008</a></li>
+</ul>
+
+
+</div>
+
+<div style="clear: both;"> </div>
+</div>
+
+<div id="bottom"> Copyright &copy; 2010 FIRE All rights reserved.</div>
+</div>
+
+</body>
+</html>
+

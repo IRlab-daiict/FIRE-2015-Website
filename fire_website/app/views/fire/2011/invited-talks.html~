@@ -1,0 +1,111 @@
+<!--#include virtual="./start.txt" -->
+<!--#include virtual="./head.html" -->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--starts content of the page-->
+
+<div class="right">
+
+<h2>Invited talks</h2>
+<br/>
+
+<!-- Useful template
+<li>
+  <b><a name="NAME">TITLE LINE</a></b>
+  <a href="./slides/FILE.pdf"><img src="./images/pdf1.png"/></a>
+  (<a href="abstracts.html#IN-PAGE-LINK">Abstract</a>)<br/>
+  - John Doe, DESIGNATION.<br/>
+</li>
+-->
+
+<ul>
+<li>
+  <b>European Language Resources Association (ELRA) and its language technology evaluation</b><br/>
+  - Khalid Choukri, ELDA, France.<br/>
+  <a href="./slides/fire.2011.choukri.khalid.pdf"><img src="./images/pdf1.png"/></a><br/>
+</li>
+<li>
+  <b>CLEF and PROMISEs</b><br/>
+  - Nicola Ferro, University of Padova, Italy.<br/>
+  <a href="./slides/fire.2011.ferro.nicola.pdf"><img src="./images/pdf1.png"/></a><br/>
+</li>
+<li>
+  <b>Building Test Collections</b><br/>
+  - Donna Harman, National Institute of Standards and Technology, USA.<br/>
+  <a href="./slides/fire.2011.harman.donna.ppt"><img src="./images/pdf1.png"/></a> 
+  (<a href="abstracts.html#Harman">Abstract</a>)<br/>
+</li>
+
+<li>
+  <b>User studies in IR: Toward user and task based evaluation</b><br/>
+  - Kalervo Jarvelin, School of Information Sciences, University of Tampere, Finland<br/>
+  <a href="./slides/fire.2011.jarvelin.kalervo.pdf"><img src="./images/pdf1.png"/></a> 
+  (<a href="abstracts.html#Jarvelin">Abstract</a>)<br/>
+</li>
+
+<li>
+  <b>NTCIR-9 and Beyond</b><br/>
+  - Hideo Joho, University of Tsukuba, Japan.<br/>
+  <a href="./slides/fire.2011.joho.hideo.pdf"><img src="./images/pdf1.png"/></a> 
+  (<a href="abstracts.html#Joho">Abstract</a>)<br/>
+</li>
+
+<li>
+  <b>MediaEval 2011 Evaluation Campaign</b><br/>
+  - Gareth Jones, Dublin City University, Ireland.<br/>
+  <a href="./slides/fire.2011.jones.gareth.pdf"><img src="./images/pdf1.png"/></a> 
+  (<a href="abstracts.html#Jones">Abstract</a>)<br/>
+</li>
+
+<li>
+  <b>IR Evaluation in Context</b><br/>
+  - Jaap Kamps, University of Amsterdam, The Netherlands.<br/>
+  <a href="./slides/fire.2011.kamps.jaap.pdf"><img src="./images/pdf1.png"/></a> 
+  (<a href="abstracts.html#Kamps">Abstract</a>)<br/>
+</li>
+
+<li>
+  <b>Utility Estimation Framework for Query-performance Prediction</b><br/>
+  - Oren Kurland, Israel Institute of Technology, Israel.<br/>
+  <a href="./slides/fire.2011.kurland.oren.pdf"><img src="./images/pdf1.png"/></a>
+  (<a href="abstracts.html#Kurland">Abstract</a>)<br/>
+</li>
+
+<li>
+  <b>The Recall Problem in Cross-Language Information Retrieval</b><br/>
+  - Doug Oard, University of Maryland, College Park, USA<br/>
+  <a href="./slides/fire.2011.oard.doug.pdf"><img src="./images/pdf1.png"/></a>
+  (<a href="abstracts.html#Oard">Abstract</a>)<br/>
+  <b>RISOT : Retrieval from Indic Script OCRed Text</b><br/>
+  <a href="./slides/fire.2011.oard.doug.risot.pdf"><img src="./images/pdf1.png"/></a>
+</li>
+
+<li>
+  <b>The Importance of Evaluation in MLIR System Development</b><br/>
+  - Carol Peters, ISTI-CNR, Italy.<br/>
+  <a href="./slides/fire.2011.peters.carol.pdf"><img src="./images/pdf1.png"/></a>
+  (<a href="abstracts.html#Peters">Abstract</a>)<br/>
+</li>
+
+<li>
+  <b>Why Recall Matters</b><br/>
+  - Stephen Robertson, Microsoft Research, Cambridge, UK.<br/>
+  <a href="./slides/fire.2011.robertson.stephen.pdf"><img src="./images/pdf1.png"/></a>
+  (<a href="abstracts.html#Robertson">Abstract</a>)<br/>
+</li>
+
+<!--li><b><a name="Rajput">Spoken Web Search</a></b>
+ - Nitendra Rajput<br/>
+</li-->
+</ul>
+
+</div>
+
+<!--ends content of the page-->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--#include virtual="./foot.html" -->
+<!--**********************************************************-->
+<!--#include virtual="./end.txt" -->

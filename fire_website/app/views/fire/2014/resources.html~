@@ -1,0 +1,55 @@
+<!--#include virtual="head.html" -->
+
+<div class="right">
+
+<h2>Resources</h2>
+<br/>
+
+<b>FIRE</b><br/>
+<hr/>
+<a href="/fire/data.html">FIRE Data</a><br/>
+<br/>
+
+<b>OTHER EVALUTION FORUMS</b><br/>
+<hr/>
+ 
+<a href="http://trec.nist.gov/">Text REtrieval Conference(TREC)</b></a><br/>
+<a href="http://www.clef-campaign.org/">CLEF (Cross-Language Evaluation Forum)</b></a><br/>
+<a href="http://research.nii.ac.jp/ntcir/workshop/">NTCIR workshops</b></a><br/>
+<br/>
+
+<b>LINGUISTIC RESOURCES</b><br/>
+<hr/>
+
+<a href="/fire/data/Bengali_abp_lexicon.txt" >Bengali Anandabazar Lexicon</a><br/>
+<a href="/fire/data/clia-stemmer.tgz" >Stemmer</a><br/>
+<a href="/fire/data/stopwords_list_ben.txt" >Bengali Stopword List</a><br/>
+<a href="/fire/data/sample_query.txt" >Sample Query (in English)</a><br/>
+<a href="/fire/data/sample_docu.txt" >Sample Document (in Bengali)</a><br/>
+
+<a href="http://hi.wikipedia.org/">Hindi</a><br/>
+<a href="http://bn.wikipedia.org/">Bangla</a><br/>
+<a href="http://mr.wikipedia.org/">Marathi</a><br/>
+<a href="http://ta.wikipedia.org/">Tamil</a><br/>
+<a href="http://te.wikipedia.org/">Telugu</a><br/>
+<a href="http://pa.wikipedia.org/">Punjabi</a><br/>
+<a href="http://ml.wikipedia.org/wiki/">Malayalam</a><br/>
+<br/>
+
+<b>OTHER RESOURCES</b><br/>
+<hr/>
+
+<a href="http://www.bengalinux.org/cgi-bin/abhidhan/bdict.pl">Ankur's English to Bengali dictionary</a><br/>
+<a href="http://home.uchicago.edu/~cbs2/banglainstruction.html" >Bangla Dictionary, language learning kit</a><br/>
+<!--<a href="http://barnamala.org/">Bengali Barnamala (বর্ণমালা)</</a>-->
+<a href="http://bengali-thesaurus.net">Bengali-English Thesaurus</a><br/>
+<a href="http://en.wikipedia.org/wiki/Bengali_language">Bengali language</a><br/>
+<a href="http://www.websters-online-dictionary.org/translation/Bengali+%2528Transliterated%2529/">Bengali (transliterated) English Dictionary</a><br/>
+<a href="http://bn.wikisource.org/wiki/">Bengali wikisource (উইকিসংকলন)</a><br/>
+<a href="http://www.cfilt.iitb.ac.in/wordnet/webhwn/">Hindi Wordnet</a><br/>
+<a href="http://ltrc.iiit.ac.in/showfile.php?filename=downloads/">Language Technologies Research Center (IIIT Hyderabad)</a><br/>
+<a href="http://www.cfilt.iitb.ac.in">Resource Center for Indian Language Technology Solutions</a><br/>
+<br/>
+
+</div>
+<!--#include virtual="foot.html" -->

@@ -1,0 +1,78 @@
+<!--#include virtual="head.html" -->
+<div class="right">
+<h2>Accommodation</h2>
+<br/>
+<p>
+Accommodation will be provided to <i>registered</i> participants on a
+first-come first-served basis. Please mail your request to
+  <a href="mailto:sksisical@gmail.com">sksisical@gmail.com</a>
+with a copy to <a href="mailto:clia@isical.ac.in">CLIA</a>.
+<b>Please be sure to include your name, affiliation, gender, arrival and
+departure times.</b>
+</p><br/>
+<!-- p>
+6 single rooms available in the ISEC hostel, ISI Campus>
+</p><br -->
+<p>
+20 double rooms (twin-sharing basis) are available at the  R. V. College P.O. Mysore Road
+Bangalore - 560 059 (Approx. 2 KM distance from the ISI campus).
+  <ul>
+    <li>Room rent: Rs. 750/- per person per day</li>
+    <li>Breakfast and Dinner are included in the tariff</li>     
+    <!--li>Check-in / check-out time: 12 noon </li>
+    <li>All rooms are equipped with an AC and a geyser.</li-->
+    
+  </ul>
+</p><br/>
+
+<h2>Tentative Room assignment (subject to change)</h2>
+<table width="100%">
+  <tr>
+    <td><b>Name</b></td> <td align="center"><b>Room</b></td> <td><b>Arrival</b></td> <td><b>Departure</b></td>
+  </tr>
+  <!--tr>
+    <td>Parth Gupta</td>
+    <td align="center">1</td>
+    <td>16 Dec (PM)</td>
+    <td>20 Dec (AM)</td>
+  </tr-->
+  
+</table>
+<br/>
+
+<h2>Other accommodation</h2>
+<p>
+We will soon update a list of other nearby hotels.
+<Rooms may also be available at:> 
+<!--ul>
+<li>
+Mandir Palace<br/>
+6/1A, T.N. Biswas Road, Kolkata - 700 035.<br/>
+Phone: +91 98366 73333, +91 98360 76666<br/>
+Email: mandirpalace@yahoo.in
+</li>
+<li>Holy Nest Guest House<br/>
+7, T.N. Biswas Road, Kolkata - 700 035.<br/>
+Phone: +91 33 2564 5138,  +91 33 2544 3121, +91 33 2544 3122<br/>
+Web: <a href="http://www.sensonmedia.net/companies/holynest.htm">http://www.sensonmedia.net/companies/holynest.htm</a><br/>
+</li>
+<li>
+Youth Hostel Kolkata<br/>
+1D, Hem Dey Lane. Kolkata – 700 050. India.<br/>
+(Adjacent to Rabindra Bharati University, B.T.Road)<br/>
+Telefax: +91-33-2556 9394. <br/>
+Email: vulcantrading@vsnl.net<br/>
+Web: <a href="http://www.youthhostelkolkata.com/">http://www.youthhostelkolkata.com/</a>
+</li>
+</ul>
+</p>
+<p style="color:red">
+Please contact the above hotels / guest houses directly.
+</p>
+<p>
+Meals are available at restaurants that are within walking distance
+from the accommodation options listed above.
+</p><br/-->
+
+</div>
+<!--#include virtual="foot.html" -->

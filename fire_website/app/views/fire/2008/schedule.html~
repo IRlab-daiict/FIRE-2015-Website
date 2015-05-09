@@ -1,0 +1,59 @@
+<!--#include virtual="./head.txt" -->
+<!--**********************************************************-->
+
+      <h2>Workshop Slides:</h2>
+<!--**********************************************************-->
+<!--starts content of the page-->
+
+
+      <div id="welcome">
+        <!--img src="images/fire.jpg" width="171" height="137" alt="Pic 1" class="left" /-->
+<table><tr><td height=40></td></tr><tr><td><font size=3><b>12.12.2008</b></font></td></tr><tr><td height=10></td></tr></table><font size=2> 
+<table>
+<!--tr><td width=30></td><td>Inauguration</td></tr-->
+<tr><td width=30></td><td><a href="ppt/Mandar_Mitra.pdf" style="text-decoration:none">Overview of FIRE 2008</a></td></tr>
+<tr><td width=30></td><td><a href="ppt/FIRE-CLIA-12dec08.ppt" style="text-decoration:none">Presentation of the CLIA Project</a></td></tr> 
+<tr><td width=30></td><td><a href="ppt/fire.2008.ppt" style="text-decoration:none">Donna Harman<sup>*</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/Mark_Sanderson.ppt" style="text-decoration:none">Mark Sanderson<sup>*</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/Nicola_Cancedda.ppt" style="text-decoration:none">Nicola Cancedda<sup>*</sup></a></td></tr>
+<!--tr><td width=30></td><td>Mark Liberman<sup>*</sup></td></tr-->
+</table></font>
+<table><tr><td height=40></td></tr><tr><td><font size=3><b>13.12.2008</b></font></td></tr><tr><td height=10></td></tr></table><font size=2>
+<table><tr><td width=30></td>
+<tr><td width=30></td><td><a href="ppt/fire-oard.ppt" style="text-decoration:none">Doug Oard<sup>*</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/Manoj_Chinnakotla.ppt" style="text-decoration:none">Manoj C.(IITB)<sup>#</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/Paul_McNamee.ppt" style="text-decoration:none">P. McNamee (JHU)<sup>#</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/Udupa_FIRE2008_.ppt" style="text-decoration:none">R. Udupa (MSR)<sup>#</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/Marathi_–_Marathi_Monolingual_Information_Retrieval.ppt" style="text-decoration:none">A. Almeida (IITB)<sup>#</sup></a></td></tr>
+<!--tr><td width=30></td><td>Jiaul Paik (ISI)<sup>#</sup></td></tr-->
+<tr><td width=30></td><td><a href="ppt/Sethuramalingam_S_and_Vasudeva_Varma.ppt" style="text-decoration:none">S. Sethu(IIITH)<sup>#</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/Pattabhi_R.K.ppt" style="text-decoration:none">T. Pattabhi(AUKBC)<sup>#</sup></a></td></tr>
+<tr><td width=30></td><td>Tetsuya Sakai(video)<sup>*</sup></td></tr>
+</table></font>
+<table><tr><td height=40></td></tr><tr><td><font size=3><b>14.12.2008</b></font></td></tr><tr><td height=10></td></tr></table><font size=2>
+<table><tr><td width=30></td>
+<tr><td width=30></td><td><a href="ppt/Kal_FIRE_08-s.ppt" style="text-decoration:none">Kalervo JÃrvelin<sup>*</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/Carol_Peters.ppt" style="text-decoration:none">Carol Peters<sup>*</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/information_extraction_rastogi.ppt" style="text-decoration:none">R. Rastogi(Yahoo!)<sup>$</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/Debopriyo_majumder.ppt" style="text-decoration:none">Debapriyo Majumdar<!--K. Krishna-->(IBM)<sup>$</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/FIRE_Calcutta_HPL.ppt" style="text-decoration:none">R. Krishnan(HP)<sup>$</sup></a></td></tr>
+<tr><td width=30></td><td><a href="ppt/FIRE-Conclusions.pdf" style="text-decoration:none">Concluding Ceremony</a></td></tr>
+</table>
+
+<table>
+<tr><td height=20></td></tr>
+<tr><td>* --> Invited Speaker.</td></tr>
+<tr><td># --> Participant.</td></tr>
+<tr><td>$ --> Sponsorer.</td></tr
+</table>
+</font>
+
+
+<!--ends content of the page-->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--#include virtual="./foot.txt" -->
+<!--**********************************************************-->
+</body>
+</html>

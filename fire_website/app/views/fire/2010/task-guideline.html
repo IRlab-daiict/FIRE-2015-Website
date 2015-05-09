@@ -1,0 +1,298 @@
+<!--#include virtual="./start.txt" -->
+<!--#include virtual="./head.txt" -->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--starts content of the page-->
+
+
+      <div class="right">
+<a name="top"></a>
+
+<h2 align="center"><font size=2><b><a href="#ad_hoc">Ad-hoc retrieval</a>  |  <a href="#forum">Mailing lists & forums</a>  |  <a href="#wiki">Wikipedia-entity retrieval</b></font></h2> 
+<br><br>
+<!------------------------------------------------------------------------------------------ -->
+<a name="ad_hoc"></a>
+
+<h2>Ad-hoc Retrieval :</h2>
+<br><br>
+<p>The FIRE adhoc task is similar to the TREC adhoc task. Its objective is to evaluate the effectiveness of retrieval systems in retrieving accurate and complete ranked lists of documents in response to fifty one-time information needs. The FIRE 2010 adhoc task focuses specifically on South Asian languages. This is the second year of the FIRE Adhoc task. New participants are welcome!</p>
+
+<p><b>The adhoc task has several sub-tasks:</b>
+<ol>
+<li><b>Mono-lingual retrieval in each of the following languages:</b></li>
+ <ul> 
+ <li>Bengali</li>
+ <li>Hindi</li>
+ <li>Marathi</li>
+ </ul>
+<li><b>Cross-lingual retrieval:</b></li>
+ <ul>
+ <li>queries in Bengali / English / Hindi / Marathi / Tamil / Telugu / Gujarati</li>
+ <li>documents in Bengali / English / Hindi / Marathi</li>
+ </ul>
+</ol></p>
+<p>The Bengali and Hindi topics will also be transliterated and made available in Roman script. All participants are encouraged to submit runs using these queries as well.</p>
+
+
+<p><b>Administrivia:</b></p>
+
+<p>All participants should periodically check this website (<a href="/fire">/fire</a>) for announcements, updates, etc.</p>
+
+<p>All participants should also be subscribed to the track mailing list to participate in any track discussion and to be informed of any late-breaking announcements. Contact fire-list (at) isical.ac.in to be added to the list.</p>
+
+
+<p><b>Submissions:</b></p>
+
+<p>Each submission file should contain 1000 documents per topic, ranked 0-999, in the usual TREC / CLEF submission format, i.e. each line in the file should have the following fields:</p>
+
+<p>&lt;Query id&gt; Q0 &lt;DOCNO&gt; &lt;RANK&gt; &lt;SIMILARITY&gt; &lt;Run-ID&gt;</p>
+
+<p>Participants will need to submit a gzipped file containing retrieval results in the above format.</p>
+
+<p><b>All participants are required to submit at least one run that uses only the title and description fields (no narrative) of the topics.</b> There is no upper limit on the number of submitted runs. However, please assign a priority to each of your submissions. Runs will be included in the pooling process in order of priority.<br></p>
+
+
+<br><br>
+<!------------------------------------------------------------------------------------------ -->
+<a name="forum"></a>
+<h2>Retrieval and classification from mailing lists and forums:</h2>
+<br><br>
+<p><b>About the track:</b></p>
+<p>The mailing lists and forums we are considering typically consist of
+message threads, most of which are started by somebody seeking a solution
+to a technical problem (s)he faced. Other members seek clarifications /
+more details about the problem, or reply with proposed solutions. The
+initial poster may explain the problem in more detail in subsequent
+messages, if required. The other members may help the poster to eventually 
+reach a solution; or the problem may remain unsolved in that thread.
+Sometimes, the poster may be referred to an earlier thread, where the
+solution can be found. Occasionally, the discussion digresses into other
+topics as well.
+</p> 
+
+<p>These aspects of the data from a mailing list or discussion forum make
+retrieval of the solution (i.e. finding a message, or a set of messages
+containing a legitimate solution) fairly complex. The objective of this
+track is to evaluate the effectiveness of retrieval and classification
+systems on this type of data.  This is a pilot track starting this year and
+we eagerly look forward to your participation.
+</p>
+
+<p><b>About the data:</b></p>
+<p>
+The text collection is drawn from web discussion forums and mailing lists.
+The forum sub-collections are organized into files, each of which
+corresponds to a complete discussion thread. In contrast, each file in the
+mailing list sub-collections corresponds to an individual email message.
+The thread structure for these sub-collections may be reconstructed using 
+the message ids in the &quot;In-reply-to&quot; and &quot;References&quot; 
+fields of the messages. As usual, each file in the collection has a unique 
+&lt;DOCNO&gt; field.
+</p>
+
+<p><b>Task 1: Ad-hoc retrieval from mailing lists and forums:</b></p>
+<p>
+  The topics of this task will be in the standard TREC / CLEF format, and
+  will describe a technical problem. The retrieval task will be to find
+  a working solution to the problem from the corpus.
+</p>
+
+<p>
+  Since the complete solution to a problem may be spread across various
+  messages in a thread, the unit of retrieval for this task will be a
+  complete thread. A thread will be regarded as relevant if it contains a
+  "correct" or working solution for the problem mentioned in the topic. To
+  make the relevance assessment process easy and consistent, we will assume
+  that a thread contains a correct solution only if a poster confirms in a
+  follow-up message that the proposed solution indeed worked. The task for
+  a retrieval system will thus be to find such threads containing a
+  solution to the problem posed in the topic.
+</p>
+
+<p>
+Note that a single file in the forum sub-collections corresponds to a
+complete thread, but in the mailing-list sub-collections, a thread is
+spread across multiple files. <i>For the sake of uniformity, we will
+shortly be providing a table that maps the &lt;DOCNO&gt; of each such file
+(email message) to the corresponding <a href="/fire/data/topics/forum_mailing_list/mlaf.THREAD-ID_DOCNO_table.2010.txt.gpg">THREAD-ID</a>.
+</i>
+</p>
+  
+<p><b>Task 2: Classification of messages in mailing lists and forums:</b></p>
+  <p>
+  Most of the posts of a mailing list or a forum belong to one (in some
+  cases more than one) of the following categories (MSG-CLASS):
+  <ol>
+    <li><b>ASK_QUESTION:</b>
+    Asking a question, e.g. somebody posts a problem. This is usually, but
+    not always, the first post of a thread.
+    </li>
+    <li><b>DITTO:</b>
+    Repeating a question, e.g. &quot;Yes, I also have the same (or a very
+    similar) problem&quot;.
+    </li> 
+    <li><b>ASK_CLARIFICATION:</b>
+    Asking for more details about the problem, e.g. &quot;Can you please
+    provide more details? What kind of error message are you getting?&quot;
+    </li> 
+    <li><b>FURTHER_DETAILS:</b>
+    The person who is facing a problem provides more detailed information
+    about it, possibly after somebody asks for more details.
+    </li> 
+    <li><b>SUGGEST_SOLUTION:</b>
+    Suggesting a solution
+    </li>
+    <li><b>SOLUTION_FEEDBACK_NEG:</b>
+    Somebody tries a suggested solution and says that it did not work for
+    him or her.
+    </li>  
+    <li><b>SOLUTION_FEEDBACK_POS:</b>
+    Somebody tries a suggested solution that works, and (s)he confirms that
+    it works. Sometimes this may be the legitimate end of a thread.
+    </li> 
+  </ol>
+  Note that the same post may belong to more than one of the above
+  categories. For example, when somebody repeats a question, (s)he may also
+  provide more details. The goal of this task is to classify a set of given
+  messages (identified by MSG-ID) into one or more of the above categories.
+  </p> 
+
+  <p>
+  We will also provide a list of pre-classified messages as training
+  data. Participants may (in fact, they are encouraged to) build a larger
+  training set on their own. Naturally, they must exclude the messages that
+  are in the test set from their training data.
+  </p> 
+
+<p><b>Submission guidelines:</b></p>
+<p><b>Task 1: Ad-hoc retrieval from mailing lists and forums:</b></p>
+  <p>
+  Each submission file should contain 1000 threads per topic, ranked 0-999,
+  in the usual TREC / CLEF submission format, i.e. each line in the file
+  should have the following fields:
+  </p>
+
+  <p>&lt;Query id&gt; Q0 &lt;THREAD-ID&gt; &lt;RANK&gt; &lt;SIMILARITY&gt; &lt;Run-ID&gt;</p>
+
+  <p>
+  The <a href="/fire/data/topics/forum_mailing_list/mlaf.THREAD-ID_DOCNO_table.2010.txt.gpg">THREAD-ID</a> for a document from the forum sub-collections will be the
+  same as its DOCNO. For a document from the mailing-list sub-collections,
+  the THREAD-ID will be obtained as described above.
+  </p>
+  <p>
+  Participants will need to submit a gzipped file for each run. There is
+  no upper limit on the number of submitted runs. However, please assign a
+  priority to each of your submissions. Runs will be included in the
+  pooling process in order of priority.
+  </p> 
+
+  <p>
+  All participants are required to submit at least one run that uses only
+  the title and description fields (no narrative) of the topic.
+  </p> 
+<p><b>Task 2: Classification of messages in mailing lists and forums:</b></p>
+
+  <p>
+  Each line of a submission file should contain the following fields:
+  </p>
+
+  <p>&lt;MSG-ID&gt; &lt;MSG-CLASS&gt; &lt;CONFIDENCE-SCORE
+  (optional)&gt;
+  </p>
+  
+  <p>
+  The field CONFIDENCE-SCORE is optional and if present, must be a value
+  in the range 0 to 1. If a confidence score is not present, then a default
+  value 1 will be assumed. When one message is classified into multiple
+  message classes, then there will be multiple rows for the same MSG-ID.
+  </p> 
+
+<br><br>
+<!------------------------------------------------------------------------------------------ -->
+<a name="wiki"></a>
+
+<h2>Ad-hoc Wikipedia-entity retrieval from news documents (WikEND): </h2>
+<br><br>
+<p><b>Overview:</b></p>
+<p>
+An interesting adhoc entity retrieval task involves identifying a set
+of entities from Wikipedia which are relevant to a given document,
+which we call the query document. Interesting applications include
+linking specific entities in a news or a scientific article to their
+corresponding Wikipedia page(s). The task for the WikEND track may be
+defined as - given a query document find entities from Wikipedia that
+are related to this document.
+</p>
+<p>
+Note that, as opposed to classical entity retrieval task, context
+available from the query document determines relevance of the
+retrieved entities.
+</p>
+<p>
+An entity is represented by a Wikipedia article. Category pages, help
+pages, discussion pages and author information pages are not
+considered as entity pages. They can be used by the participants for
+disambiguating entity pages.
+</p>
+<p><b>
+Example:</b>
+</p>
+<p>
+A few sample query documents from Yahoo News and lists of Wikipedia
+entities relevant to them are provided below.
+</p>
+<p>
+<a href="/fire/example1.txt">Query-1</a>  <a href="/fire/example2.txt">Query-2</a>  <a href="/fire/example3.txt">Query-3</a>
+</p>
+<p>
+<b>Dataset:</b>
+</p>
+<p>
+The track uses a <a href="http://download.wikimedia.org/enwiki/20090914/enwiki-20090914-pages-articles.xml.bz2">Wikipedia dump</a> from 09/14/2009. The bz2 file is 5.2
+GB and when uncompressed might expand to about 24 GB. A set of Yahoo
+News articles in plain text format will be used as query documents.
+</p>
+<p>
+<b>Submissions:</b>
+</p>
+<p>
+Each submission file should contain at most 100 results per topic, ranked 0-99,
+in the usual TREC / CLEF submission format, i.e. each line in the file
+should have the following fields:
+</p>
+<p>
+<b>&lt;Query id&gt; Q0 &lt;WIKI-PAGE-ID&gt; &lt;RANK&gt; &lt;SCORE (optional)&gt; &lt;Run-ID&gt;</b>
+</p>
+<p>
+The &lt;WIKI-PAGE-ID&gt; is the id present in the &lt;id&gt; tag for each page in
+the Wikipedia dump. The WIKI-PAGE-ID must be ids from pages that DO NOT
+redirect to other pages. In case a Wikipedia page which redirects to
+other page is selected as a candidate result, then the id of the page it
+redirects to should be provided. The redirect information is present in
+the &lt;text&gt; tag in the Wikipedia dump.
+</p>
+<p>
+The field SCORE will not be considered in the evaluation this
+year and can have default value 0.
+</p>
+<p>
+Participants will need to submit a gzipped file for each run. There is
+no upper limit on the number of submitted runs. However, please assign a
+priority to each of your submissions. Runs will be included in the
+pooling process in order of priority.                                                                                           
+</p>
+<p>
+<!------------------------------------------------------------------------------------------ -->
+<table><tbody>
+<tr><td height=50 width=300></td><td><font size="3"><a href="#top"><img src="./images/top.jpg"></a></font></td></tr>
+</tbody></table>
+
+</div>
+<!--ends content of the page-->
+<!--**********************************************************-->
+
+<!--**********************************************************-->
+<!--#include virtual="./foot.txt" -->
+<!--**********************************************************-->
+<!--#include virtual="./end.txt" -->

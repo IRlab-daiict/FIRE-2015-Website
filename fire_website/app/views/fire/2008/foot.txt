@@ -1,0 +1,16 @@
+     </div>
+    </div>
+    <div class="clear"> </div>
+    <div id="spacer"> </div>
+    <div id="footer">
+      <div id="copyright">
+      	<a href="/fire/2008">FIRE 2008</a>,	
+	<a href="/fire/2010">FIRE 2010</a>,
+	<a href="/fire/2011">FIRE 2011</a>,
+	<a href="/fire">FIRE 2012</a>
+      </div>
+	  <div id="footerline"></div>
+    </div>
+	
+  </div>
+

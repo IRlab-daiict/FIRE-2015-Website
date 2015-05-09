@@ -1,0 +1,32 @@
+======================================
+Registration info > passwords > emails
+======================================
+
+awk '$1 ~ /(Name|Email|Time)[:]/{if($1 ~ /Time/){split($0, a, /[ ]/);gsub(/[:]/, "" ,a[5]);print a[5]}else print}' reg2011.mlaf
+
+awk '{if($1 ~ /Name[:]/){n = $0}; if($1 ~ /Email[:]/){e = $0; pl = substr(e, 7,4)}; if($1 ~ /Time[:]/){split($0, a, " "); gsub(/[:]/, "", a[5]); print n ", " e ", " "Pass:" pl a[5]}}' reg2011.mlaf >reg2011.mlaf.pass
+
+awk '{if($1 ~ /Name[:]/){n = $0}; if($1 ~ /Email[:]/){e = $0; pl = substr(e, 7,4)}; if($1 ~ /Time[:]/){split($0, a, " "); gsub(/[:]/, "", a[5]); print n ", " e ", " "Pass:" pl a[5]}}' reg2011.adhoc >reg2011.adhoc.pass
+
+cat reg2011.adhoc.pass reg2011.mlaf.pass | sort | uniq -c >reg2011.adhoc.mlaf.pass
+
+awk 'BEGIN{FS=",";s="Run submission : Adhoc and MLAF Tasks"; s1="Run Submission : Adhoc Task"}{split($1, n, " "); split($2, u, ":"); split($3, p, ":"); if(n[2] > 1)s=s1;else s=s2; print "Subject: " s "\n/fire/adhoc.html#runsub\nUsername: " u[2] "\nPassword: " p[2] "\n" >"./runsubemails/" u[2]}' reg2011.adhoc.mlaf.pass
+
+======================================
+email
+======================================
+
+sudo apt-get install ssmtp
+sudo gedit /etc/ssmtp/ssmtp.conf
+Add these lines:
+root=username@gmail.com
+mailhub=smtp.gmail.com:465
+rewriteDomain=gmail.com
+AuthUser=username
+AuthPass=password
+FromLineOverride=YES
+UseTLS=YES
+
+ssmtp recepient_name@gmail.com <email.txt
+
+======================================
